@@ -1,0 +1,76 @@
+{
+  "title": "FOWCUS analysis-ready derived tables",
+  "upstream_workbook": "data/raw/FOWCUS_dataset_Coudard_June_2025_Scientific_Data_v2.xlsx",
+  "upstream_workbook_sha256": "0ec5937847e2670bf46dcf92252887777ba593840d21f0e572168a3006edc24d",
+  "upstream_article_doi": "10.1038/s41597-025-05629-x",
+  "upstream_dataset_doi": "10.6084/m9.figshare.27203688.v1",
+  "n_part_records": 1159,
+  "n_commodities": 276,
+  "n_food_groups": 12,
+  "n_references": 266,
+  "n_classification_note_items": 2973,
+  "n_quality_flags": 82,
+  "mass_balance_review_commodities": 48,
+  "food_groups": [
+    {
+      "food_group": "cereals",
+      "n_commodities": 16,
+      "n_parts": 48
+    },
+    {
+      "food_group": "eggs",
+      "n_commodities": 2,
+      "n_parts": 4
+    },
+    {
+      "food_group": "fruits",
+      "n_commodities": 41,
+      "n_parts": 136
+    },
+    {
+      "food_group": "legumes_pulses",
+      "n_commodities": 10,
+      "n_parts": 20
+    },
+    {
+      "food_group": "livestock",
+      "n_commodities": 17,
+      "n_parts": 202
+    },
+    {
+      "food_group": "nuts",
+      "n_commodities": 17,
+      "n_parts": 54
+    },
+    {
+      "food_group": "root_vegetables",
+      "n_commodities": 8,
+      "n_parts": 17
+    },
+    {
+      "food_group": "seafood",
+      "n_commodities": 120,
+      "n_parts": 547
+    },
+    {
+      "food_group": "stimulants",
+      "n_commodities": 5,
+      "n_parts": 13
+    },
+    {
+      "food_group": "sugar",
+      "n_commodities": 2,
+      "n_parts": 10
+    },
+    {
+      "food_group": "vegetable_oils",
+      "n_commodities": 14,
+      "n_parts": 36
+    },
+    {
+      "food_group": "vegetables",
+      "n_commodities": 24,
+      "n_parts": 72
+    }
+  ]
+}

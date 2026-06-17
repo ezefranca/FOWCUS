@@ -1,0 +1,56 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "FOWCUS Analysis-Ready Dataset",
+  "description": "Analysis-ready CSV and Parquet tables derived from the upstream FOWCUS workbook, with reproducible build scripts, normalized identifiers, references, classification notes, and source-data quality flags.",
+  "keywords": [
+    "food waste",
+    "food commodities",
+    "mass composition",
+    "valorization",
+    "FAOSTAT"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isBasedOn": [
+    "https://doi.org/10.1038/s41597-025-05629-x",
+    "https://doi.org/10.6084/m9.figshare.27203688.v1"
+  ],
+  "programmingLanguage": [
+    "Python"
+  ],
+  "runtimePlatform": [
+    "Python 3"
+  ],
+  "softwareRequirements": [
+    "pandas",
+    "openpyxl",
+    "pyarrow"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Antoine",
+      "familyName": "Coudard"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Tom",
+      "familyName": "Szabo-Hemmings"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Mona Honorine",
+      "familyName": "Delval"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Sowmya",
+      "familyName": "Marriyapillai Ravisandiran"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jose M",
+      "familyName": "Mogollon"
+    }
+  ]
+}

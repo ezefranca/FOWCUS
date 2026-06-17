@@ -1,0 +1,277 @@
+commodity_id,food_group,item_code,item_code_kind,item,n_parts,mass_fraction_sum,mass_balance_error,mass_balance_status,accounted_mass_fraction_sum,non_fao_mass_fraction_sum,unknown_fao_accounting_mass_fraction_sum,avoidable_mass_fraction,potentially_avoidable_mass_fraction,unavoidable_mass_fraction,source_sheets
+fowcus_cereals_115_barley_22432fec,cereals,115,commodity_code,Barley,3,1.0,0.0,pass,0.8799999999999999,0.12,0.0,0.8799999999999999,0.0,0.12,cereals
+fowcus_cereals_1192_buckwheat_fd14ee1c,cereals,1192,commodity_code,Buckwheat,3,1.0,0.0,pass,0.75,0.25,0.0,0.75,0.0,0.25,cereals
+fowcus_cereals_1195_canary-seed_999d95ff,cereals,1195,commodity_code,Canary seed,3,0.9999999999999999,-1.1102230246251565e-16,pass,0.9999999999999999,0.0,0.0,0.7499999999999999,0.0,0.25,cereals
+fowcus_cereals_1199-9_cereals-n-e-c_dfb205ac,cereals,1199.9,commodity_code,Cereals n.e.c.,3,1.0,0.0,pass,0.8300000000000001,0.16999999999999998,0.0,0.8300000000000001,0.0,0.16999999999999998,cereals
+fowcus_cereals_1193_fonio_91216922,cereals,1193,commodity_code,Fonio,3,1.0,0.0,pass,0.77,0.23,0.0,0.77,0.0,0.23,cereals
+fowcus_cereals_1449-02_hempseed_8081ea12,cereals,1449.02,commodity_code,Hempseed,2,1.0031967213114754,0.0031967213114754145,review,1.0031967213114754,0.0,0.0,0.6331967213114754,0.0,0.37,cereals
+fowcus_cereals_112_maize-corn_4cdbf1f5,cereals,112,commodity_code,Maize (corn),5,0.9999829545454545,-1.7045454545505656e-05,review,0.5289829545454545,0.47100000000000003,0.0,0.5289829545454545,0.0,0.47100000000000003,cereals
+fowcus_cereals_118_millet_7d3c61cb,cereals,118,commodity_code,Millet,3,1.0,0.0,pass,0.77125,0.22875,0.0,0.77125,0.0,0.22875,cereals
+fowcus_cereals_1199-02_mixed-grain_0864e6af,cereals,1199.02,commodity_code,Mixed grain,3,1.0004166666666667,0.0004166666666667318,review,0.8229166666666666,0.1775,0.0,0.8229166666666666,0.0,0.1775,cereals
+fowcus_cereals_117_oats_2dda6e44,cereals,117,commodity_code,Oats,3,1.0,0.0,pass,0.7600000000000001,0.24,0.0,0.7600000000000001,0.0,0.24,cereals
+fowcus_cereals_1194_quinoa_ebf06897,cereals,1194,commodity_code,Quinoa,3,1.0,0.0,pass,0.89,0.11,0.0,0.89,0.0,0.11,cereals
+fowcus_cereals_113_rice_db292999,cereals,113,commodity_code,Rice,3,1.0,0.0,pass,1.0,0.0,0.0,0.77,0.0,0.22999999999999998,cereals
+fowcus_cereals_116_rye_f61c1d50,cereals,116,commodity_code,Rye,3,1.0,0.0,pass,0.825,0.175,0.0,0.825,0.0,0.175,cereals
+fowcus_cereals_114_sorghum_f1de6932,cereals,114,commodity_code,Sorghum,2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,cereals
+fowcus_cereals_1191_triticale_648c3d9b,cereals,1191,commodity_code,Triticale,2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,cereals
+fowcus_cereals_111_wheat_6cf7979c,cereals,111,commodity_code,Wheat,4,1.0,0.0,pass,0.8250000000000001,0.175,0.0,0.8250000000000001,0.0,0.175,cereals
+fowcus_eggs_232_eggs-from-other-birds-in-shell-fresh-n-e-c_668b6289,eggs,232,commodity_code,"Eggs from other birds in shell, fresh, n.e.c.",2,1.0,0.0,pass,1.0,0.0,0.0,0.895,0.0,0.10500000000000001,eggs
+fowcus_eggs_231_hen-eggs-in-shell-fresh_5bf69c21,eggs,231,commodity_code,"Hen eggs in shell, fresh",2,1.0,0.0,pass,1.0,0.0,0.0,0.895,0.0,0.10500000000000001,eggs
+fowcus_fruits_1341_apples_495a8d0d,fruits,1341,commodity_code,Apples,4,1.00375,0.00374999999999992,review,1.00375,0.0,0.0,0.99,0.0,0.01375,fruits
+fowcus_fruits_1343_apricots_751c6924,fruits,1343,commodity_code,Apricots,4,1.00000000003,3.000000248221113e-11,pass,1.00000000003,0.0,0.0,0.9271330704,0.0,0.07286692963,fruits
+fowcus_fruits_1311_avocados_3e688b7e,fruits,1311,commodity_code,Avocados,3,1.0,0.0,pass,1.0,0.0,0.0,0.73,0.0,0.27,fruits
+fowcus_fruits_1312_bananas_121d1dc0,fruits,1312,commodity_code,Bananas,2,1.0,0.0,pass,1.0,0.0,0.0,0.65,0.0,0.35,fruits
+fowcus_fruits_1355-01_blueberries_26fd2e95,fruits,1355.01,commodity_code,Blueberries,4,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,fruits
+fowcus_fruits_1229_cantaloupes-and-other-melons_e3497820,fruits,1229,commodity_code,Cantaloupes and other melons,4,1.0,0.0,pass,1.0,0.0,0.0,0.68,0.07,0.25,fruits
+fowcus_fruits_1359-02_cashewapple_c4eeadbb,fruits,1359.02,commodity_code,Cashewapple,2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,fruits
+fowcus_fruits_1344-02_cherries_db5cfe66,fruits,1344.02,commodity_code,Cherries,3,1.0,0.0,pass,1.0,0.0,0.0,0.9430000000000001,0.0,0.056999999999999995,fruits
+fowcus_fruits_1355-02_cranberries_66cb20a0,fruits,1355.02,commodity_code,Cranberries,3,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,fruits
+fowcus_fruits_1351-01_currants_ca294801,fruits,1351.01,commodity_code,Currants,3,0.89,-0.10999999999999999,review,0.89,0.0,0.0,0.89,0.0,0.0,fruits
+fowcus_fruits_1351-02_currants_26734e3f,fruits,1351.02,commodity_code,Currants,1,0.11,-0.89,review,0.11,0.0,0.0,0.11,0.0,0.0,fruits
+fowcus_fruits_1314_dates_bbfcd9ef,fruits,1314,commodity_code,Dates,2,1.0,0.0,pass,1.0,0.0,0.0,0.9,0.0,0.1,fruits
+fowcus_fruits_1315_figs_9705c614,fruits,1315,commodity_code,Figs,2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,fruits
+fowcus_fruits_1351-02_gooseberries_b479a8ec,fruits,1351.02,commodity_code,Gooseberries,4,1.0138744,0.013874399999999953,review,1.0138744,0.0,0.0,0.9538744,0.0,0.06,fruits
+fowcus_fruits_1330_grapes_ebcc661d,fruits,1330,commodity_code,Grapes,4,1.0001,9.999999999998899e-05,review,1.0001,0.0,0.0,0.8551,0.095,0.05,fruits
+fowcus_fruits_1352_kiwi-fruit_349a8bdd,fruits,1352,commodity_code,Kiwi fruit,4,1.0,0.0,pass,1.0,0.0,0.0,0.8986999999999999,0.0,0.1013,fruits
+fowcus_fruits_1322_lemons-and-limes_17e7a7ef,fruits,1322,commodity_code,Lemons and limes,4,1.0,0.0,pass,1.0,0.0,0.0,0.8601,0.0,0.1399,fruits
+fowcus_fruits_1356_locust-beans-carobs_5811c807,fruits,1356,commodity_code,Locust beans (carobs),2,1.0,0.0,pass,1.0,0.0,0.0,0.9,0.0,0.1,fruits
+fowcus_fruits_1316_mangoes-guavas-and-mangosteens_44beaf57,fruits,1316,commodity_code,"Mangoes, guavas and mangosteens",4,1.0,0.0,pass,1.0,0.0,0.0,0.54,0.155,0.305,fruits
+fowcus_fruits_1323_oranges_0e57e156,fruits,1323,commodity_code,Oranges,4,1.0,0.0,pass,1.0,0.0,0.0,0.73,0.0,0.27,fruits
+fowcus_fruits_1355-9_other-berries-and-fruits-of-the-genus-vaccinium-n-e-c_37f2ab41,fruits,1355.9,commodity_code,Other berries and fruits of the genus vaccinium n.e.c.,4,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,fruits
+fowcus_fruits_1329_other-citrus-fruit-n-e-c_08cccbe6,fruits,1329,commodity_code,"Other citrus fruit, n.e.c.",4,1.00000000004,4.000000330961484e-11,pass,1.00000000004,0.0,0.0,0.7749054225,0.0,0.22509457754,fruits
+fowcus_fruits_1359-9_other-fruits-n-e-c_ac0e922e,fruits,1359.9,commodity_code,"Other fruits, n.e.c.",4,0.9967,-0.0032999999999999696,review,0.9967,0.0,0.0,0.8767,0.12,0.0,fruits
+fowcus_fruits_1349-1_other-pome-fruits_f7f37b17,fruits,1349.1,commodity_code,Other pome fruits,4,0.996,-0.0040000000000000036,review,0.996,0.0,0.0,0.951,0.0,0.045,fruits
+fowcus_fruits_1349-1_other-stone-fruits_e6b3bd05,fruits,1349.1,commodity_code,Other stone fruits,5,1.002,0.0020000000000000018,review,1.002,0.0,0.0,0.8119999999999999,0.0,0.19,fruits
+fowcus_fruits_1319_other-tropical-fruits-n-e-c_440411b7,fruits,1319,commodity_code,"Other tropical fruits, n.e.c.",3,1.010775,0.010774999999999979,review,1.010775,0.0,0.0,0.8396,0.0,0.171175,fruits
+fowcus_fruits_1317_papayas_f0be6fef,fruits,1317,commodity_code,Papayas,3,1.0,0.0,pass,1.0,0.0,0.0,0.68,0.0,0.32,fruits
+fowcus_fruits_1345_peaches-and-nectarines_d76771dd,fruits,1345,commodity_code,Peaches and nectarines,3,0.9965,-0.0034999999999999476,review,0.9965,0.0,0.0,0.752,0.157,0.0875,fruits
+fowcus_fruits_1342-01_pears_289c3397,fruits,1342.01,commodity_code,Pears,4,1.0009,0.0008999999999999009,review,1.0009,0.0,0.0,0.8249,0.176,0.0,fruits
+fowcus_fruits_1359-01_persimmons_8bf24510,fruits,1359.01,commodity_code,Persimmons,4,0.5913999999999999,-0.4086000000000001,review,0.5913999999999999,0.0,0.0,0.42,0.137,0.0344,fruits
+fowcus_fruits_1359-02_persimmons_646c5218,fruits,1359.02,commodity_code,Persimmons,1,0.41,-0.5900000000000001,review,0.41,0.0,0.0,0.41,0.0,0.0,fruits
+fowcus_fruits_1318_pineapples_187b2a07,fruits,1318,commodity_code,Pineapples,5,1.0,0.0,pass,1.0,0.0,0.0,0.5,0.0,0.5,fruits
+fowcus_fruits_1313_plantains-and-cooking-bananas_d3ad5eab,fruits,1313,commodity_code,Plantains and cooking bananas,2,1.0,0.0,pass,1.0,0.0,0.0,0.65,0.0,0.35,fruits
+fowcus_fruits_1346_plums-and-sloes_65feade6,fruits,1346,commodity_code,Plums and sloes,3,1.0022000000000002,0.002200000000000202,review,1.0022000000000002,0.0,0.0,0.9460000000000001,0.0,0.0562,fruits
+fowcus_fruits_1321_pomelos-and-grapefruits_b45c75e2,fruits,1321,commodity_code,Pomelos and grapefruits,4,1.0,0.0,pass,1.0,0.0,0.0,0.63,0.0,0.37,fruits
+fowcus_fruits_1342-02_quinces_98d49b4a,fruits,1342.02,commodity_code,Quinces,3,1.0,0.0,pass,1.0,0.0,0.0,0.91,0.0,0.09,fruits
+fowcus_fruits_1353-01_raspberries_9525aead,fruits,1353.01,commodity_code,Raspberries,2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,fruits
+fowcus_fruits_1344-01_sour-cherries_13973475,fruits,1344.01,commodity_code,Sour cherries,4,0.9999999999999999,-1.1102230246251565e-16,pass,0.9999999999999999,0.0,0.0,0.8027599999999999,0.0,0.19724,fruits
+fowcus_fruits_1354_strawberries_029f9d89,fruits,1354,commodity_code,Strawberries,4,1.0039,0.0039000000000000146,review,1.0039,0.0,0.0,0.9909,0.0,0.013,fruits
+fowcus_fruits_1324_tangerines-mandarins-clementines_5bbd3653,fruits,1324,commodity_code,"Tangerines, mandarins, clementines",4,1.0,0.0,pass,1.0,0.0,0.0,0.8825000000000001,0.0,0.11750000000000001,fruits
+fowcus_fruits_1221_watermelons_dd2410ae,fruits,1221,commodity_code,Watermelons,3,1.0,0.0,pass,1.0,0.0,0.0,0.4903069765911325,0.0,0.5096930234088675,fruits
+fowcus_legumes-pulses_1708_bambara-beans-dry_19d4ce76,legumes_pulses,1708,commodity_code,"Bambara beans, dry",2,1.0,0.0,pass,0.686,0.31399999999999995,0.0,0.686,0.31399999999999995,0.0,legumes_pulses
+fowcus_legumes-pulses_1701_beans-dry_72fa2bab,legumes_pulses,1701,commodity_code,"Beans, dry",3,1.0,0.0,pass,0.54,0.46,0.0,0.54,0.46,0.0,legumes_pulses
+fowcus_legumes-pulses_1702_broad-beans-and-horse-beans-dry_ed443c91,legumes_pulses,1702,commodity_code,"Broad beans and horse beans, dry",2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,legumes_pulses
+fowcus_legumes-pulses_1703_chick-peas-dry_b111ef49,legumes_pulses,1703,commodity_code,"Chick peas, dry",2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,legumes_pulses
+fowcus_legumes-pulses_1706_cow-peas-dry_7dfc81f7,legumes_pulses,1706,commodity_code,"Cow peas, dry",2,1.0,0.0,pass,0.802,0.19799999999999995,0.0,0.802,0.0,0.19799999999999995,legumes_pulses
+fowcus_legumes-pulses_1704_lentils-dry_7e398d73,legumes_pulses,1704,commodity_code,"Lentils, dry",2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,legumes_pulses
+fowcus_legumes-pulses_1709-02_lupins_6213c080,legumes_pulses,1709.02,commodity_code,Lupins,2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,legumes_pulses
+fowcus_legumes-pulses_1709-9_other-pulses-n-e-c_d24c1820,legumes_pulses,1709.9,commodity_code,Other pulses n.e.c.,2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,legumes_pulses
+fowcus_legumes-pulses_1707_pigeon-peas-dry_83011738,legumes_pulses,1707,commodity_code,"Pigeon peas, dry",2,1.0,0.0,pass,0.52,0.48,0.0,0.52,0.48,0.0,legumes_pulses
+fowcus_legumes-pulses_1709-01_vetches_f0aece1d,legumes_pulses,1709.01,commodity_code,Vetches,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,legumes_pulses
+fowcus_livestock_2132_asses_078bdf85,livestock,2132,commodity_code,Asses,11,1.0003202713355122,0.0003202713355121567,review,1.0003202713355122,0.0,0.0,0.2827313769751693,0.0,0.7175888943603429,livestock
+fowcus_livestock_2112_buffalo_e039ac0f,livestock,2112,commodity_code,Buffalo,11,0.9999999999999999,-1.1102230246251565e-16,pass,0.9999999999999999,0.0,0.0,0.2802975,0.026699999999999998,0.6930025,livestock
+fowcus_livestock_2121-01_camels_7eed1371,livestock,2121.01,commodity_code,Camels,10,0.990420618556701,-0.009579381443298951,review,0.990420618556701,0.0,0.0,0.343,0.0354,0.6120206185567011,livestock
+fowcus_livestock_2111_cattle_29a0f09f,livestock,2111,commodity_code,Cattle,15,0.99966,-0.00034000000000000696,review,0.99966,0.0,0.0,0.44,0.026,0.53366,livestock
+fowcus_livestock_2151_chickens_dc62dc86,livestock,2151,commodity_code,Chickens,11,1.0,0.0,pass,1.0,0.0,0.0,0.5181578176,0.02,0.46184218239999997,livestock
+fowcus_livestock_2154_ducks_d34fe01e,livestock,2154,commodity_code,Ducks,9,0.9999999999999999,-1.1102230246251565e-16,pass,0.9999999999999999,0.0,0.0,0.3699999999999999,0.07,0.56,livestock
+fowcus_livestock_2153_geese_36df119c,livestock,2153,commodity_code,Geese,9,1.0,0.0,pass,1.0,0.0,0.0,0.45058728000000003,0.08,0.46941272,livestock
+fowcus_livestock_2123_goats_7ca4dd3d,livestock,2123,commodity_code,Goats,10,1.00032,0.000320000000000098,review,1.00032,0.0,0.0,0.455,0.028999999999999998,0.51632,livestock
+fowcus_livestock_2131_horses_07eb5e12,livestock,2131,commodity_code,Horses,8,0.9997319727453197,-0.0002680272546803364,review,0.9997319727453197,0.0,0.0,0.47,0.051604661066160816,0.4781273116791589,livestock
+fowcus_livestock_2133_mules-and-hinnies_46d6efc7,livestock,2133,commodity_code,Mules and hinnies,11,1.0003202713355122,0.0003202713355121567,review,1.0003202713355122,0.0,0.0,0.2827313769751693,0.064,0.653588894360343,livestock
+fowcus_livestock_2121-02_other-camelids_4beaf07c,livestock,2121.02,commodity_code,Other camelids,14,1.0,0.0,pass,1.0,0.0,0.0,0.4614035087719298,0.02850877192982456,0.5100877192982457,livestock
+fowcus_livestock_2192-01_other-rodents_cb5aa258,livestock,2192.01,commodity_code,Other rodents,12,0.9999999999999999,-1.1102230246251565e-16,pass,0.9999999999999999,0.0,0.0,0.33595718499130806,0.04971971013926597,0.6143231048694259,livestock
+fowcus_livestock_2194_pigeons-and-other-birds_62cd5160,livestock,2194,commodity_code,Pigeons and other birds,11,1.0,0.0,pass,1.0,0.0,0.0,0.25880000000000003,0.0691,0.6721,livestock
+fowcus_livestock_2140_pigs-swines_4884655e,livestock,2140,commodity_code,Pigs/Swines,17,1.0,0.0,pass,1.0,0.0,0.0,0.4891,0.0166,0.4943,livestock
+fowcus_livestock_2191_rabbits-and-hares_c44ef05e,livestock,2191,commodity_code,Rabbits and hares,9,1.0,0.0,pass,1.0,0.0,0.0,0.4614597156398106,0.04560663507109004,0.49293364928909944,livestock
+fowcus_livestock_2122_sheeps_d6451fff,livestock,2122,commodity_code,Sheeps,25,2.002,1.0019999999999998,review,2.002,0.0,0.0,0.844,0.191,0.967,livestock
+fowcus_livestock_2152_turkeys_f1f4ce00,livestock,2152,commodity_code,Turkeys,9,1.0,0.0,pass,1.0,0.0,0.0,0.4544,0.06,0.4856,livestock
+fowcus_nuts_1371_almonds-in-shell_e67c9c2f,nuts,1371,commodity_code,"Almonds, in shell",4,1.0,0.0,pass,0.48,0.52,0.0,0.15,0.0,0.8500000000000001,nuts
+fowcus_nuts_1379-01_areca-nuts_12e35b96,nuts,1379.01,commodity_code,Areca nuts,2,1.0,0.0,pass,0.2645,0.7355,0.0,0.2645,0.0,0.7355,nuts
+fowcus_nuts_1377_brazil-nuts-in-shell_da665feb,nuts,1377,commodity_code,"Brazil nuts, in shell",3,1.0,0.0,pass,0.1087,0.8913,0.0,0.0545674,0.0,0.9454326,nuts
+fowcus_nuts_1372_cashew-nuts-in-shell_5700c4f5,nuts,1372,commodity_code,"Cashew nuts, in shell",4,1.0,0.0,pass,0.1,0.9,0.0,1.0,0.0,0.0,nuts
+fowcus_nuts_1373_chestnuts-in-shell_d80010c3,nuts,1373,commodity_code,"Chestnuts, in shell",3,0.99708,-0.0029200000000000337,review,0.7970799999999999,0.2,0.0,0.61308,0.0,0.384,nuts
+fowcus_nuts_1460_coconuts-in-shell_d8d4702c,nuts,1460,commodity_code,"Coconuts, in shell",3,1.0,0.0,pass,0.5225,0.4775,0.0,0.3738,0.0,0.6262,nuts
+fowcus_nuts_1374_hazelnuts-in-shell_2c2827a5,nuts,1374,commodity_code,"Hazelnuts, in shell",3,1.0000000000000002,2.220446049250313e-16,pass,0.6948677232984495,0.3051322767015507,0.0,0.31683729323090987,0.0,0.6831627067690903,nuts
+fowcus_nuts_1499-01_karite-nuts-sheanuts_449bb657,nuts,1499.01,commodity_code,Karite nuts (sheanuts),3,1.0,0.0,pass,0.3861305234118339,0.6138694765881662,0.0,0.8256075136626082,0.0,0.17439248633739188,nuts
+fowcus_nuts_1379-02_kola-nuts_feea39e6,nuts,1379.02,commodity_code,Kola nuts,3,1.0,0.0,pass,0.557,0.443,0.0,0.41400000000000003,0.0,0.586,nuts
+fowcus_nuts_1379-9-macadamia_macadamia-in-shell_ecaf03c1,nuts,1379.9 - macadamia,commodity_code,"Macadamia, in shell",3,0.997634615384615,-0.0023653846153850466,review,0.0,0.997634615384615,0.0,0.20350000000000001,0.0,0.7941346153846149,nuts
+fowcus_nuts_1653_nutmeg-mace-cardamoms-raw_3fa537a1,nuts,1653,commodity_code,"Nutmeg, mace, cardamoms, raw",4,1.0,0.0,pass,0.222,0.778,0.0,0.171,0.0,0.8290000000000001,nuts
+fowcus_nuts_1379-9-pecan_pecan-in-shell_57a95df4,nuts,1379.9 - pecan,commodity_code,"Pecan, in shell",3,1.0,0.0,pass,0.0,1.0,0.0,0.36975,0.0,0.63025,nuts
+fowcus_nuts_1379-9-pignola_pignola-nuts-in-shell_11870424,nuts,1379.9 - pignola,commodity_code,"Pignola nuts, in shell",3,1.0,0.0,pass,0.0,1.0,0.0,0.035,0.0,0.9650000000000001,nuts
+fowcus_nuts_1379-9-pili_pili-nuts-in-shell_13a3312b,nuts,1379.9 - pili,commodity_code,"Pili nuts, in shell",3,0.995,-0.0050000000000000044,review,0.0,0.995,0.0,0.1,0.0,0.895,nuts
+fowcus_nuts_1375_pistachios-in-shell_22d8e908,nuts,1375,commodity_code,"Pistachios, in shell",3,1.0,0.0,pass,0.6670574727999999,0.3329425272,0.0,0.35837158989999995,0.0,0.6416284101,nuts
+fowcus_nuts_1499-02_tung-nuts_6d766ce3,nuts,1499.02,commodity_code,Tung nuts,3,1.0,0.0,pass,0.615,0.385,0.0,0.0,0.0,1.0,nuts
+fowcus_nuts_1376_walnuts-in-shell_582390d1,nuts,1376,commodity_code,"Walnuts, in shell",4,1.0,0.0,pass,0.4285000000000001,0.5715,0.0,0.2142500000000001,0.0,0.78575,nuts
+fowcus_root-vegetables_1219-01_cassava-leaves_98d95850,root_vegetables,1219.01,commodity_code,Cassava leaves,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,root_vegetables
+fowcus_root-vegetables_1520-01_cassava-fresh_1ff00dad,root_vegetables,1520.01,commodity_code,"Cassava, fresh",4,1.0,0.0,pass,1.0,0.0,0.0,0.782,0.0,0.218,root_vegetables
+fowcus_root-vegetables_1657_ginger-raw_bc90c18e,root_vegetables,1657,commodity_code,"Ginger, raw",2,1.0,0.0,pass,1.0,0.0,0.0,0.9,0.1,0.0,root_vegetables
+fowcus_root-vegetables_1510_potatoes_90b32063,root_vegetables,1510,commodity_code,Potatoes,2,1.0,0.0,pass,1.0,0.0,0.0,0.81,0.19,0.0,root_vegetables
+fowcus_root-vegetables_1530_sweet-potatoes_c83e640f,root_vegetables,1530,commodity_code,Sweet potatoes,2,1.0,0.0,pass,1.0,0.0,0.0,0.8,0.2,0.0,root_vegetables
+fowcus_root-vegetables_1550_taro_00458a93,root_vegetables,1550,commodity_code,Taro,2,1.0,0.0,pass,1.0,0.0,0.0,0.86,0.14,0.0,root_vegetables
+fowcus_root-vegetables_1540_yams_4aaef68b,root_vegetables,1540,commodity_code,Yams,2,1.0,0.0,pass,1.0,0.0,0.0,0.86,0.14,0.0,root_vegetables
+fowcus_root-vegetables_1591_yautia_4a896508,root_vegetables,1591,commodity_code,Yautia,2,1.0,0.0,pass,1.0,0.0,0.0,0.782,0.0,0.218,root_vegetables
+fowcus_seafood_aggregation_abalone-outside-top-100_e584bb08,seafood,aggregation,aggregation,Abalone outside top 100,3,1.0,0.0,pass,1.0,0.0,0.0,0.42,0.0,0.5800000000000001,seafood
+fowcus_seafood_228007000903_akiami-paste-shrimp_dce97da7,seafood,228007000903,commodity_code,Akiami paste shrimp,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_148004000213_alaska-pollock-walleye-poll_f04fb254,seafood,148004000213,commodity_code,Alaska pollock(=Walleye poll.),5,1.0,0.0,pass,1.0,0.0,0.0,0.41,0.0,0.59,seafood
+fowcus_seafood_536001000201_american-alligator_8a39de7b,seafood,536001000201,commodity_code,American alligator,9,1.0,0.0,pass,1.0,0.0,0.0,0.43410000000000004,0.0,0.5659,seafood
+fowcus_seafood_141007003102_amur-catfish_2e59fba7,seafood,141007003102,commodity_code,Amur catfish,5,0.996,-0.0040000000000000036,review,0.996,0.0,0.0,0.35,0.016,0.63,seafood
+fowcus_seafood_121006000208_anchoveta-peruvian-anchovy_da128579,seafood,121006000208,commodity_code,Anchoveta(=Peruvian anchovy),4,0.9999999999999999,-1.1102230246251565e-16,pass,0.9999999999999999,0.0,0.0,0.6759,0.0,0.3241,seafood
+fowcus_seafood_226001000501_antarctic-krill_10fc23d6,seafood,226001000501,commodity_code,Antarctic krill,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_aggregation_aquatic-plants-outside-top-100_518782e3,seafood,aggregation,aggregation,Aquatic Plants outside top 100,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_148005000406_argentine-hake_42349a8e,seafood,148005000406,commodity_code,Argentine hake,5,1.0,0.0,pass,1.0,0.0,0.0,0.55,0.0,0.44999999999999996,seafood
+fowcus_seafood_175001000209_atlantic-chub-mackerel_082931b2,seafood,175001000209,commodity_code,Atlantic chub mackerel,4,1.0,0.0,pass,1.0,0.0,0.0,0.61,0.06467,0.32533,seafood
+fowcus_seafood_148004000202_atlantic-cod_eee9123c,seafood,148004000202,commodity_code,Atlantic cod,6,1.0,0.0,pass,1.0,0.0,0.0,0.49,0.03,0.48,seafood
+fowcus_seafood_121005000105_atlantic-herring_4d17df1f,seafood,121005000105,commodity_code,Atlantic herring,7,1.0001,9.999999999998899e-05,review,1.0001,0.0,0.0,0.4932,0.05,0.4569,seafood
+fowcus_seafood_175001000205_atlantic-mackerel_70d6108a,seafood,175001000205,commodity_code,Atlantic mackerel,4,1.0,0.0,pass,1.0,0.0,0.0,0.61,0.06467,0.32533,seafood
+fowcus_seafood_123001000401_atlantic-salmon_30530393,seafood,123001000401,commodity_code,Atlantic salmon,6,1.0,0.0,pass,1.0,0.0,0.0,0.6432,0.0,0.3568,seafood
+fowcus_seafood_175001002612_bigeye-tuna_4fda0f23,seafood,175001002612,commodity_code,Bigeye tuna,7,1.0,0.0,pass,1.0,0.0,0.0,0.64,0.08,0.28,seafood
+fowcus_seafood_140002004302_bighead-carp_b43b91ec,seafood,140002004302,commodity_code,Bighead carp,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_140002014401_black-carp_40148554,seafood,140002014401,commodity_code,Black carp,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_316004007201_blood-cockle_0dbd634a,seafood,316004007201,commodity_code,Blood cockle,2,1.0,0.0,pass,1.0,0.0,0.0,0.7407407407407407,0.0,0.25925925925925924,seafood
+fowcus_seafood_148004003301_blue-whiting-poutassou_ce0c88aa,seafood,148004003301,commodity_code,Blue whiting(=Poutassou),6,1.0,0.0,pass,1.0,0.0,0.0,0.49,0.03,0.48,seafood
+fowcus_seafood_1700590051xx001_blue-nile-tilapia-hybrid_8fc6ef11,seafood,1700590051XX001,commodity_code,"Blue-Nile tilapia, hybrid",6,1.0,0.0,pass,1.0,0.0,0.0,0.4175,0.07,0.5125,seafood
+fowcus_seafood_121005003002_bonga-shad_3ded083f,seafood,121005003002,commodity_code,Bonga shad,7,1.0,0.0,pass,1.0,0.0,0.0,0.5554353000000001,0.0063,0.4382647,seafood
+fowcus_seafood_7710xxxxxxxx_brown-seaweeds_2968e0fd,seafood,7710XXXXXXXX,commodity_code,Brown seaweeds,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_140020160x_carassius-spp_c2fe75a8,seafood,140020160X,commodity_code,Carassius spp,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_140002005001_catla_b0239f4a,seafood,140002005001,commodity_code,Catla,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_3210xxxxxxxx_cephalopods-nei_357a355c,seafood,3210XXXXXXXX,commodity_code,Cephalopods nei,5,1.0,0.0,pass,1.0,0.0,0.0,0.621,0.028,0.351,seafood
+fowcus_seafood_141010000202_channel-catfish_e7db6a8b,seafood,141010000202,commodity_code,Channel catfish,5,0.9984999999999999,-0.0015000000000000568,review,0.9984999999999999,0.0,0.0,0.45,0.056,0.4925,seafood
+fowcus_seafood_170023000405_chilean-jack-mackerel_a5c122d7,seafood,170023000405,commodity_code,Chilean jack mackerel,4,1.0,0.0,pass,1.0,0.0,0.0,0.61,0.06467,0.32533,seafood
+fowcus_seafood_316010000103_chilean-mussel_cc2db5eb,seafood,316010000103,commodity_code,Chilean mussel,3,1.0,0.0,pass,1.0,0.0,0.0,0.51,0.0,0.49,seafood
+fowcus_seafood_231013002803_chinese-mitten-crab_3235512f,seafood,231013002803,commodity_code,Chinese mitten crab,3,1.0,0.0,pass,0.76,0.0,0.24,0.32999999999999996,0.0,0.67,seafood
+fowcus_seafood_aggregation_clams-outside-top-100_a0376c6b,seafood,aggregation,aggregation,Clams outside top 100,2,1.0,0.0,pass,1.0,0.0,0.0,0.16,0.0,0.84,seafood
+fowcus_seafood_1210xxxxxxxx020_clupeoids-nei_f7e74f8f,seafood,1210XXXXXXXX020,commodity_code,Clupeoids nei,7,1.0001,9.999999999998899e-05,review,1.0001,0.0,0.0,0.4717,0.1041,0.4243,seafood
+fowcus_seafood_aggregation_cockle-outside-top-100_38245772,seafood,aggregation,aggregation,Cockle outside top 100,2,1.0,0.0,pass,1.0,0.0,0.0,0.41368421052631577,0.0,0.5863157894736842,seafood
+fowcus_seafood_140002000201_common-carp_9745cdc3,seafood,140002000201,commodity_code,Common carp,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_316040000101_constricted-tagelus_b5090c56,seafood,316040000101,commodity_code,Constricted tagelus,2,1.0,0.0,pass,1.0,0.0,0.0,0.35,0.0,0.65,seafood
+fowcus_seafood_aggregation_crabs-outside-top-100_011d29eb,seafood,aggregation,aggregation,Crabs outside top 100,2,1.0,0.0,pass,1.0,0.0,0.0,0.27,0.0,0.73,seafood
+fowcus_seafood_1700370xxxxx_croakers-drums-nei_1f340dfe,seafood,1700370XXXXX,commodity_code,"Croakers, drums nei",6,0.9956,-0.0043999999999999595,review,0.9956,0.0,0.0,0.5530279717728144,0.04195205748815818,0.40061997073902744,seafood
+fowcus_seafood_3160070008xx_cupped-oysters-nei_69d60658,seafood,3160070008XX,commodity_code,Cupped oysters nei,3,1.0,0.0,pass,1.0,0.0,0.0,0.18,0.0,0.82,seafood
+fowcus_seafood_3210020xxxxx026_cuttlefish-bobtail-squids-nei_b0f860ff,seafood,3210020XXXXX026,commodity_code,"Cuttlefish, bobtail squids nei",5,1.0,0.0,pass,1.0,0.0,0.0,0.621,0.0,0.379,seafood
+fowcus_seafood_1400020xxxxx_cyprinids-nei_8c8fd14d,seafood,1400020XXXXX,commodity_code,Cyprinids nei,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_aggregation_demersal-marine-fish-outside-top-100_3224e525,seafood,aggregation,aggregation,Demersal Marine Fish outside top 100,6,0.993288378476664,-0.006711621523336042,review,0.993288378476664,0.0,0.0,0.49997294924459856,0.04690006987963662,0.44641535935242876,seafood
+fowcus_seafood_787005000202_elkhorn-sea-moss_52febd0b,seafood,787005000202,commodity_code,Elkhorn sea moss,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_7870050014xx_eucheuma-seaweeds-nei_92fcd60b,seafood,7870050014XX,commodity_code,Eucheuma seaweeds nei,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_121006000201_european-anchovy_ec346e15,seafood,121006000201,commodity_code,European anchovy,4,0.9999999999999999,-1.1102230246251565e-16,pass,0.9999999999999999,0.0,0.0,0.6759,0.0,0.3241,seafood
+fowcus_seafood_121005006401_european-pilchard-sardine_82e5a27d,seafood,121005006401,commodity_code,European pilchard(=Sardine),3,1.0,0.0,pass,1.0,0.0,0.0,0.68,0.0,0.32,seafood
+fowcus_seafood_121005006601_european-sprat_cd0d72db,seafood,121005006601,commodity_code,European sprat,7,1.0001,9.999999999998899e-05,review,1.0001,0.0,0.0,0.4666,0.0766,0.4569,seafood
+fowcus_seafood_aggregation_freshwater-and-diadromous-fish-outside-top-100_25ba4f68,seafood,aggregation,aggregation,Freshwater and Diadromous Fish outside top 100,6,1.0,0.0,pass,1.0,0.0,0.0,0.5,0.06,0.44,seafood
+fowcus_seafood_1990xxxxxxxx001_freshwater-fishes-nei_aef93f3c,seafood,1990XXXXXXXX001,commodity_code,Freshwater fishes nei,6,1.0,0.0,pass,1.0,0.0,0.0,0.5,0.06,0.44,seafood
+fowcus_seafood_231011000404_gazami-crab_ed9281d9,seafood,231011000404,commodity_code,Gazami crab,3,1.0,0.0,pass,0.91,0.0,0.09,0.32999999999999996,0.0,0.67,seafood
+fowcus_seafood_228001000112_giant-tiger-prawn_4a793ada,seafood,228001000112,commodity_code,Giant tiger prawn,3,1.0,0.0,pass,1.0,0.0,0.0,0.513,0.0,0.487,seafood
+fowcus_seafood_7870120004xx_gracilaria-seaweeds_0d6bb868,seafood,7870120004XX,commodity_code,Gracilaria seaweeds,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_140002003501_grass-carp-white-amur_ae47f961,seafood,140002003501,commodity_code,Grass carp(=White amur),6,1.0,0.0,pass,1.0,0.0,0.0,0.513,0.0,0.487,seafood
+fowcus_seafood_1700020042xx_groupers-nei_4df0d065,seafood,1700020042XX,commodity_code,Groupers nei,5,1.0002429473684211,0.0002429473684211203,review,1.0002429473684211,0.0,0.0,0.4588,0.0,0.541442947368421,seafood
+fowcus_seafood_121005002404_gulf-menhaden_bdf08e2a,seafood,121005002404,commodity_code,Gulf menhaden,7,1.0,0.0,pass,1.0,0.0,0.0,0.5554353000000001,0.0063,0.4382647,seafood
+fowcus_seafood_121005003801_hilsa-shad_409bf7b0,seafood,121005003801,commodity_code,Hilsa shad,7,1.0,0.0,pass,1.0,0.0,0.0,0.5554353000000001,0.0063,0.4382647,seafood
+fowcus_seafood_175001001403_indian-mackerel_76c06c8a,seafood,175001001403,commodity_code,Indian mackerel,4,1.0,0.0,pass,1.0,0.0,0.0,0.61,0.06467,0.32533,seafood
+fowcus_seafood_121005001204_indian-oil-sardine_5471a32d,seafood,121005001204,commodity_code,Indian oil sardine,4,1.0,0.0,pass,1.0,0.0,0.0,0.68,0.0,0.32,seafood
+fowcus_seafood_1700230004xx_jack-and-horse-mackerels-nei_7903d4cf,seafood,1700230004XX,commodity_code,Jack and horse mackerels nei,4,1.0,0.0,pass,1.0,0.0,0.0,0.61,0.06467,0.32533,seafood
+fowcus_seafood_1700230044xx_jacks-crevalles-nei_1481e5d6,seafood,1700230044XX,commodity_code,"Jacks, crevalles nei",6,0.9950000000000001,-0.004999999999999893,review,0.9950000000000001,0.0,0.0,0.56,0.023,0.41200000000000003,seafood
+fowcus_seafood_121006000202_japanese-anchovy_3494addb,seafood,121006000202,commodity_code,Japanese anchovy,4,0.9999999999999999,-1.1102230246251565e-16,pass,0.9999999999999999,0.0,0.0,0.6759,0.0,0.3241,seafood
+fowcus_seafood_316011002002_japanese-carpet-shell_4b647e41,seafood,316011002002,commodity_code,Japanese carpet shell,2,1.0,0.0,pass,1.0,0.0,0.0,0.5305164319248825,0.0,0.46948356807511743,seafood
+fowcus_seafood_771002000304_japanese-kelp_682cc53f,seafood,771002000304,commodity_code,Japanese kelp,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_321005002301_jumbo-flying-squid_3f2a6836,seafood,321005002301,commodity_code,Jumbo flying squid,5,1.0,0.0,pass,1.0,0.0,0.0,0.621,0.028,0.351,seafood
+fowcus_seafood_175006000302_largehead-hairtail_ef47df7b,seafood,175006000302,commodity_code,Largehead hairtail,6,1.0,0.0,pass,1.0,0.0,0.0,0.5900000000000001,0.03813000000000001,0.3718700000000001,seafood
+fowcus_seafood_170010001402_largemouth-black-bass_9bca9471,seafood,170010001402,commodity_code,Largemouth black bass,6,1.0,0.0,pass,1.0,0.0,0.0,0.31,0.13,0.56,seafood
+fowcus_seafood_787020000308_laver-nori_3cf35014,seafood,787020000308,commodity_code,Laver (Nori),1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_aggregation_lobster-and-crayfish-like-crustaceans-outside-top-100_cb72ef36,seafood,aggregation,aggregation,Lobster and crayfish like crustaceans outside top 100,5,1.0,0.0,pass,1.0,0.0,0.0,0.43000000000000005,0.0,0.5700000000000001,seafood
+fowcus_seafood_aggregation_marine-fish-nei-outside-top-100_2d4892e3,seafood,aggregation,aggregation,Marine Fish NEI outside top 100,6,0.9895843655275398,-0.010415634472460189,review,0.9895843655275398,0.0,0.0,0.5431767155313902,0.05297529809771306,0.3934323518984366,seafood
+fowcus_seafood_1990xxxxxxxx010_marine-fishes-nei_8bfc8ac4,seafood,1990XXXXXXXX010,commodity_code,Marine fishes nei,6,0.9895843655275398,-0.010415634472460189,review,0.9895843655275398,0.0,0.0,0.5431767155313902,0.05297529809771306,0.3934323518984366,seafood
+fowcus_seafood_122002000101_milkfish_01192fc9,seafood,122002000101,commodity_code,Milkfish,6,1.0,0.0,pass,1.0,0.0,0.0,0.61,0.0468,0.34320000000000006,seafood
+fowcus_seafood_140002002503_mrigal-carp_914e43a3,seafood,140002002503,commodity_code,Mrigal carp,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_1650010xxxxx_mullets-nei_6460af44,seafood,1650010XXXXX,commodity_code,Mullets nei,5,1.0,0.0,pass,1.0,0.0,0.0,0.28600000000000003,0.086,0.628,seafood
+fowcus_seafood_2280xxxxxxxx_natantian-decapods-nei_9da7081b,seafood,2280XXXXXXXX,commodity_code,Natantian decapods nei,3,1.0,0.0,pass,1.0,0.0,0.0,0.4955,0.0,0.5045,seafood
+fowcus_seafood_170059005102_nile-tilapia_d5611e72,seafood,170059005102,commodity_code,Nile tilapia,6,1.0,0.0,pass,1.0,0.0,0.0,0.4175,0.07,0.5125,seafood
+fowcus_seafood_7870200002xx_nori-nei_5b34a7b6,seafood,7870200002XX,commodity_code,Nori nei,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_148005000407_north-pacific-hake_1431f917,seafood,148005000407,commodity_code,North Pacific hake,5,1.0,0.0,pass,1.0,0.0,0.0,0.55,0.0,0.44999999999999996,seafood
+fowcus_seafood_aggregation_oysters-outside-top-100_ed12dc11,seafood,aggregation,aggregation,Oysters outside top 100,3,1.0,0.0,pass,1.0,0.0,0.0,0.18,0.0,0.82,seafood
+fowcus_seafood_175001000201_pacific-chub-mackerel_288aeb5e,seafood,175001000201,commodity_code,Pacific chub mackerel,4,1.0,0.0,pass,1.0,0.0,0.0,0.61,0.06467,0.32533,seafood
+fowcus_seafood_148004000211_pacific-cod_ce490819,seafood,148004000211,commodity_code,Pacific cod,6,1.0,0.0,pass,1.0,0.0,0.0,0.49,0.03,0.48,seafood
+fowcus_seafood_316007001201_pacific-cupped-oyster_a3f0410f,seafood,316007001201,commodity_code,Pacific cupped oyster,2,1.0,0.0,pass,1.0,0.0,0.0,0.164,0.0,0.836,seafood
+fowcus_seafood_121005000107_pacific-herring_1ce88956,seafood,121005000107,commodity_code,Pacific herring,7,1.0001,9.999999999998899e-05,review,1.0001,0.0,0.0,0.4932,0.05,0.4569,seafood
+fowcus_seafood_121005001303_pacific-sardine_d8b46a22,seafood,121005001303,commodity_code,Pacific sardine,4,1.0,0.0,pass,1.0,0.0,0.0,0.68,0.0,0.32,seafood
+fowcus_seafood_1410300002xx_pangas-catfishes-nei_d78a07c1,seafood,1410300002XX,commodity_code,Pangas catfishes nei,5,1.0,0.0,pass,1.0,0.0,0.0,0.354,0.016,0.63,seafood
+fowcus_seafood_aggregation_pelagic-marine-fish-outside-top-100_63260922,seafood,aggregation,aggregation,Pelagic Marine Fish outside top 100,6,0.9858803525784158,-0.014119647421584225,review,0.9858803525784158,0.0,0.0,0.5863804818181818,0.05905052631578949,0.3404493444444444,seafood
+fowcus_seafood_123001000902_pink-humpback-salmon_385856c1,seafood,123001000902,commodity_code,Pink(=Humpback) salmon,6,1.0,0.0,pass,1.0,0.0,0.0,0.6432,0.0,0.3568,seafood
+fowcus_seafood_aggregation_prawn-and-shrimp-like-crustaceans-outside-top-100_9e3bb5fa,seafood,aggregation,aggregation,Prawn and shrimp like crustaceans outside top 100,3,1.0,0.0,pass,1.0,0.0,0.0,0.4955,0.0,0.5045,seafood
+fowcus_seafood_aggregation_quahaug-outside-top-100_fb50241f,seafood,aggregation,aggregation,Quahaug outside top 100,2,1.0,0.0,pass,1.0,0.0,0.0,0.16,0.0,0.84,seafood
+fowcus_seafood_123001000909_rainbow-trout_3c426004,seafood,123001000909,commodity_code,Rainbow trout,6,1.0,0.0,pass,1.0,0.0,0.0,0.6432,0.0,0.3568,seafood
+fowcus_seafood_aggregation_razor-clams-outside-top-100_67eccec8,seafood,aggregation,aggregation,Razor clams outside top 100,2,1.0,0.0,pass,1.0,0.0,0.0,0.35,0.0,0.65,seafood
+fowcus_seafood_229004000101_red-swamp-crawfish_f00b157a,seafood,229004000101,commodity_code,Red swamp crawfish,2,1.0,0.0,pass,1.0,0.0,0.0,0.12,0.0,0.88,seafood
+fowcus_seafood_140002002415_roho-labeo_97416082,seafood,140002002415,commodity_code,Roho labeo,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_1210050012xx_sardinellas-nei_4e02a64f,seafood,1210050012XX,commodity_code,Sardinellas nei,4,1.0,0.0,pass,1.0,0.0,0.0,0.68,0.0,0.32,seafood
+fowcus_seafood_1700230043xx_scads-nei_9dc7fefd,seafood,1700230043XX,commodity_code,Scads nei,4,1.0,0.0,pass,1.0,0.0,0.0,0.61,0.06467,0.32533,seafood
+fowcus_seafood_aggregation_scallop-outside-top-100_16a7cec8,seafood,aggregation,aggregation,Scallop outside top 100,4,1.0,0.0,pass,1.0,0.0,0.0,0.10709029500000002,0.1481197725,0.7447899325,seafood
+fowcus_seafood_3160080xxxxx_scallops-nei_81aa0153,seafood,3160080XXXXX,commodity_code,Scallops nei,4,1.0,0.0,pass,1.0,0.0,0.0,0.10709029500000002,0.1481197725,0.7447899325,seafood
+fowcus_seafood_1410020xxxxx_sea-catfishes-nei_a3f0b9ee,seafood,1410020XXXXX,commodity_code,Sea catfishes nei,5,1.0,0.0,pass,1.0,0.0,0.0,0.354,0.016,0.63,seafood
+fowcus_seafood_3160100xxxxx_sea-mussels-nei_b3849b92,seafood,3160100XXXXX,commodity_code,Sea mussels nei,3,1.0,0.0,pass,1.0,0.0,0.0,0.4,0.0,0.6,seafood
+fowcus_seafood_1750010015xx_seerfishes-nei_03ca602b,seafood,1750010015XX,commodity_code,Seerfishes nei,4,1.0,0.0,pass,1.0,0.0,0.0,0.61,0.06467,0.32533,seafood
+fowcus_seafood_140002033501_silver-barb_2755632c,seafood,140002033501,commodity_code,Silver barb,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_140002004301_silver-carp_000998d7,seafood,140002004301,commodity_code,Silver carp,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_175001002501_skipjack-tuna_33c23cd4,seafood,175001002501,commodity_code,Skipjack tuna,7,1.0,0.0,pass,1.0,0.0,0.0,0.66,0.08,0.26,seafood
+fowcus_seafood_aggregation_snails-outside-top-100_7b9f041d,seafood,aggregation,aggregation,Snails outside top 100,2,1.0,0.0,pass,1.0,0.0,0.0,0.3494,0.0,0.6506,seafood
+fowcus_seafood_177019000101_snakehead_3ab48030,seafood,177019000101,commodity_code,Snakehead,6,1.0,0.0,pass,1.0,0.0,0.0,0.5,0.06,0.44,seafood
+fowcus_seafood_536001000103_spectacled-caiman_129714d0,seafood,536001000103,commodity_code,Spectacled caiman,7,1.0,0.0,pass,1.0,0.0,0.0,0.421875,0.0,0.578125,seafood
+fowcus_seafood_aggregation_squid-octopus-and-cuttlefish-like-cephalopods-outside-top-100_85cd6221,seafood,aggregation,aggregation,"Squid, octopus and cuttlefish like Cephalopods outside top 100",5,1.0,0.0,pass,1.0,0.0,0.0,0.621,0.0,0.379,seafood
+fowcus_seafood_141030000301_striped-catfish_9cda6489,seafood,141030000301,commodity_code,Striped catfish,5,1.0,0.0,pass,1.0,0.0,0.0,0.354,0.016,0.63,seafood
+fowcus_seafood_1700330184xx_threadfin-breams-nei_0d6678da,seafood,1700330184XX,commodity_code,Threadfin breams nei,6,0.9995,-0.0004999999999999449,review,0.9995,0.0,0.0,0.4612,0.07,0.46830000000000005,seafood
+fowcus_seafood_1700590051xx_tilapias-nei_0808488a,seafood,1700590051XX,commodity_code,Tilapias nei,6,1.0,0.0,pass,1.0,0.0,0.0,0.4175,0.07,0.5125,seafood
+fowcus_seafood_1410180030xx_torpedo-shaped-catfishes-nei_dca8cf19,seafood,1410180030XX,commodity_code,Torpedo-shaped catfishes nei,5,1.0,0.0,pass,1.0,0.0,0.0,0.354,0.016,0.63,seafood
+fowcus_seafood_1750xxxxxxxx_tuna-like-fishes-nei_d8e2f175,seafood,1750XXXXXXXX,commodity_code,Tuna-like fishes nei,7,1.0,0.0,pass,1.0,0.0,0.0,0.66,0.08,0.26,seafood
+fowcus_seafood_3210050xxxxx036_various-squids-nei_44537888,seafood,3210050XXXXX036,commodity_code,Various squids nei,5,1.0,0.0,pass,1.0,0.0,0.0,0.621,0.028,0.351,seafood
+fowcus_seafood_771004000301_wakame_46844455,seafood,771004000301,commodity_code,Wakame,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,seafood
+fowcus_seafood_228001000111_whiteleg-shrimp_7c11919a,seafood,228001000111,commodity_code,Whiteleg shrimp,4,1.0,0.0,pass,1.0,0.0,0.0,0.38,0.0,0.62,seafood
+fowcus_seafood_140002015101_wuchang-bream_f019074d,seafood,140002015101,commodity_code,Wuchang bream,6,1.0,0.0,pass,1.0,0.0,0.0,0.5124,0.0,0.48760000000000003,seafood
+fowcus_seafood_141008013001_yellow-catfish_06918300,seafood,141008013001,commodity_code,Yellow catfish,5,1.0,0.0,pass,1.0,0.0,0.0,0.354,0.016,0.63,seafood
+fowcus_seafood_175001002610_yellowfin-tuna_e18da27f,seafood,175001002610,commodity_code,Yellowfin tuna,7,1.0,0.0,pass,1.0,0.0,0.0,0.66,0.08,0.26,seafood
+fowcus_seafood_316008006901_yesso-scallop_4854b868,seafood,316008006901,commodity_code,Yesso scallop,4,1.0,0.0,pass,1.0,0.0,0.0,0.15943346803523917,0.133,0.7075665319647608,seafood
+fowcus_seafood_aggregation_caiman-outside-top-100_c2d0f7c1,seafood,aggregation,aggregation,caiman outside top 100,7,1.0,0.0,pass,1.0,0.0,0.0,0.421875,0.0,0.578125,seafood
+fowcus_seafood_aggregation_crocodiles-outside-top-100_150cbab3,seafood,aggregation,aggregation,crocodiles outside top 100,9,0.9999999999999999,-1.1102230246251565e-16,pass,0.9999999999999999,0.0,0.0,0.3567799999999999,0.025,0.61822,seafood
+fowcus_seafood_aggregation_mussel-outside-top-100_ba49f5ce,seafood,aggregation,aggregation,mussel outside top 100,3,1.0,0.0,pass,1.0,0.0,0.0,0.455,0.0,0.5449999999999999,seafood
+fowcus_seafood_aggregation_oysters-outside-top-100_1c228b8b,seafood,aggregation,aggregation,oysters outside top 100,3,1.0,0.0,pass,1.0,0.0,0.0,0.18,0.0,0.82,seafood
+fowcus_stimulants_1691_chicory-roots_3f01c080,stimulants,1691,commodity_code,Chicory roots,3,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,stimulants
+fowcus_stimulants_1640_cocoa-beans_7e450d21,stimulants,1640,commodity_code,Cocoa beans,4,0.9988,-0.0011999999999999789,review,0.1638,0.835,0.0,0.12,0.11000000000000001,0.7687999999999999,stimulants
+fowcus_stimulants_1610_coffee-green_5125b1a9,stimulants,1610,commodity_code,"Coffee, green",3,1.0,0.0,pass,0.55,0.45,0.0,0.508,0.0,0.492,stimulants
+fowcus_stimulants_1630_mat-leaves_64c4c99a,stimulants,1630,commodity_code,Maté leaves,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,stimulants
+fowcus_stimulants_1620_tea-leaves_f7c843e1,stimulants,1620,commodity_code,Tea leaves,2,1.0,0.0,pass,0.8,0.2,0.0,0.8,0.0,0.2,stimulants
+fowcus_sugar_1801_sugar-beet_1fcadb75,sugar,1801,commodity_code,Sugar beet,5,0.9999899999999999,-1.0000000000065512e-05,review,0.9999899999999999,0.0,0.0,0.18978,0.0,0.81021,sugar
+fowcus_sugar_1802_sugar-cane_43ff8bc0,sugar,1802,commodity_code,Sugar cane,5,1.0,0.0,pass,1.0,0.0,0.0,0.13459111215686656,0.0,0.8654088878431334,sugar
+fowcus_vegetable-oils_1447_castor-oil-seeds_72ecaee0,vegetable_oils,1447,commodity_code,Castor oil seeds,3,1.0,0.0,pass,1.0,0.0,0.0,0.53,0.0,0.47,vegetable_oils
+fowcus_vegetable-oils_142_groundnuts-excluding-shelled_b4844958,vegetable_oils,142,commodity_code,"Groundnuts, excluding shelled",3,1.0,0.0,pass,1.0,0.0,0.0,0.735,0.0,0.265,vegetable_oils
+fowcus_vegetable-oils_1499-03_jojoba-seeds_f1a4d1b8,vegetable_oils,1499.03,commodity_code,Jojoba seeds,2,1.0,0.0,pass,1.0,0.0,0.0,0.4,0.0,0.6,vegetable_oils
+fowcus_vegetable-oils_1441_linseed_40c06e0b,vegetable_oils,1441,commodity_code,Linseed,2,1.0,0.0,pass,1.0,0.0,0.0,0.625,0.0,0.375,vegetable_oils
+fowcus_vegetable-oils_1449-01_melonseed_386af40f,vegetable_oils,1449.01,commodity_code,Melonseed,2,1.0,0.0,pass,1.0,0.0,0.0,0.71,0.0,0.29,vegetable_oils
+fowcus_vegetable-oils_1442_mustard-seed_7e810654,vegetable_oils,1442,commodity_code,Mustard seed,2,1.0,0.0,pass,1.0,0.0,0.0,0.84,0.0,0.16,vegetable_oils
+fowcus_vegetable-oils_1491-01_oil-palm-fruit_bf8ba9f3,vegetable_oils,1491.01,commodity_code,Oil palm fruit,5,1.0,0.0,pass,1.0,0.0,0.0,0.43074379687500003,0.0,0.569256203125,vegetable_oils
+fowcus_vegetable-oils_1450_olives_b967c2d9,vegetable_oils,1450,commodity_code,Olives,2,1.0,0.0,pass,1.0,0.0,0.0,0.8,0.0,0.2,vegetable_oils
+fowcus_vegetable-oils_1443_rape-or-colza-seed_7c91ba44,vegetable_oils,1443,commodity_code,Rape or colza seed,2,1.0,0.0,pass,1.0,0.0,0.0,0.8140000000000001,0.0,0.186,vegetable_oils
+fowcus_vegetable-oils_1446_safflower-seed_5c2e30da,vegetable_oils,1446,commodity_code,Safflower seed,2,1.0,0.0,pass,1.0,0.0,0.0,0.480325,0.0,0.519675,vegetable_oils
+fowcus_vegetable-oils_1921-01_seed-cotton-unginned_827b998e,vegetable_oils,1921.01,commodity_code,"Seed cotton, unginned",3,1.0,0.0,pass,1.0,0.0,0.0,0.527,0.0,0.473,vegetable_oils
+fowcus_vegetable-oils_141_soya-beans_19c9b6ca,vegetable_oils,141,commodity_code,Soya beans,3,1.0,0.0,pass,0.558,0.44199999999999995,0.0,0.95536,0.0,0.044640000000000006,vegetable_oils
+fowcus_vegetable-oils_1445_sunflower-seed_a603e6f5,vegetable_oils,1445,commodity_code,Sunflower seed,2,1.0,0.0,pass,1.0,0.0,0.0,0.6885,0.0,0.3115,vegetable_oils
+fowcus_vegetable-oils_1499-04_tallowtree-seeds_8f5a5236,vegetable_oils,1499.04,commodity_code,Tallowtree seeds,3,1.0,0.0,pass,1.0,0.0,0.0,0.31999999999999995,0.0,0.68,vegetable_oils
+fowcus_vegetables_1216_artichokes_eae4f7a0,vegetables,1216,commodity_code,Artichokes,4,1.0,0.0,pass,1.0,0.0,0.0,0.4,0.0,0.6,vegetables
+fowcus_vegetables_1211_asparagus_7d760f68,vegetables,1211,commodity_code,Asparagus,2,1.0,0.0,pass,1.0,0.0,0.0,0.53,0.0,0.47,vegetables
+fowcus_vegetables_1243_broad-beans-and-horse-beans-green_8597bfbf,vegetables,1243,commodity_code,"Broad beans and horse beans, green",3,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,vegetables
+fowcus_vegetables_1212_cabbages_184c0b25,vegetables,1212,commodity_code,Cabbages,3,1.0,0.0,pass,1.0,0.0,0.0,0.6,0.05129999999999996,0.34870000000000007,vegetables
+fowcus_vegetables_1251_carrots-and-turnips_664b0600,vegetables,1251,commodity_code,Carrots and turnips,3,1.002728,0.0027280000000000637,review,1.002728,0.0,0.0,0.8627279999999999,0.14,0.0,vegetables
+fowcus_vegetables_1213_cauliflowers-and-broccoli_81c413c4,vegetables,1213,commodity_code,Cauliflowers and broccoli,3,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,vegetables
+fowcus_vegetables_1231_chillies-and-peppers-green-capsicum-spp-and-pimenta-spp_348e9542,vegetables,1231,commodity_code,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",3,0.996,-0.0040000000000000036,review,0.996,0.0,0.0,0.986,0.0,0.01,vegetables
+fowcus_vegetables_1232_cucumbers-and-gherkins_f86c6b4d,vegetables,1232,commodity_code,Cucumbers and gherkins,3,1.0,0.0,pass,1.0,0.0,0.0,0.86,0.14,0.0,vegetables
+fowcus_vegetables_1233_eggplants-aubergines_ebeb5d85,vegetables,1233,commodity_code,Eggplants (aubergines),3,1.0043,0.0042999999999999705,review,1.0043,0.0,0.0,0.9636,0.0,0.0407,vegetables
+fowcus_vegetables_1290-01_green-corn-maize_4821e3f9,vegetables,1290.01,commodity_code,Green corn (maize),3,1.0,0.0,pass,1.0,0.0,0.0,0.1218,0.0,0.8781999999999999,vegetables
+fowcus_vegetables_1252_green-garlic_c8468719,vegetables,1252,commodity_code,Green garlic,5,1.0,0.0,pass,1.0,0.0,0.0,0.5342105263157895,0.21052631578947367,0.25526315789473686,vegetables
+fowcus_vegetables_1254_leeks-and-other-alliaceous-vegetables_94a6e4ea,vegetables,1254,commodity_code,Leeks and other alliaceous vegetables,3,1.0,0.0,pass,1.0,0.0,0.0,0.44,0.55,0.01,vegetables
+fowcus_vegetables_1214_lettuce-and-chicory_906f71f9,vegetables,1214,commodity_code,Lettuce and chicory,3,1.0,0.0,pass,1.0,0.0,0.0,0.66,0.33999999999999997,0.0,vegetables
+fowcus_vegetables_1270_mushrooms-and-truffles_ab502314,vegetables,1270,commodity_code,Mushrooms and truffles,2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,vegetables
+fowcus_vegetables_1239-01_okra_698ff53e,vegetables,1239.01,commodity_code,Okra,3,1.0,0.0,pass,1.0,0.0,0.0,0.96,0.0,0.04,vegetables
+fowcus_vegetables_1253-02_onions-and-shallots-dry-excluding-dehydrated_0fd50670,vegetables,1253.02,commodity_code,"Onions and shallots, dry (excluding dehydrated)",3,1.0,0.0,pass,1.0,0.0,0.0,0.9,0.0,0.09999999999999999,vegetables
+fowcus_vegetables_1253-01_onions-and-shallots-green_56de66e3,vegetables,1253.01,commodity_code,"Onions and shallots, green",3,1.0,0.0,pass,1.0,0.0,0.0,0.89,0.0,0.11,vegetables
+fowcus_vegetables_1241-9_other-beans-green_b4352a9f,vegetables,1241.9,commodity_code,"Other beans, green",4,1.0,0.0,pass,1.0,0.0,0.0,0.95,0.0,0.05,vegetables
+fowcus_vegetables_1290-9_other-vegetables-fresh-n-e-c_34b7c88f,vegetables,1290.9,commodity_code,"Other vegetables, fresh n.e.c.",4,1.00000000001,1.000000082740371e-11,pass,1.00000000001,0.0,0.0,1.00000000001,0.0,0.0,vegetables
+fowcus_vegetables_1242_peas-green_1979360d,vegetables,1242,commodity_code,"Peas, green",2,1.0,0.0,pass,1.0,0.0,0.0,0.54,0.0,0.46,vegetables
+fowcus_vegetables_1235_pumpkins-squash-and-gourds_45335449,vegetables,1235,commodity_code,"Pumpkins, squash and gourds",4,0.9998,-0.00019999999999997797,review,0.9998,0.0,0.0,0.8164,0.0298,0.15360000000000001,vegetables
+fowcus_vegetables_1215_spinach_3c9d0cbb,vegetables,1215,commodity_code,Spinach,1,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,vegetables
+fowcus_vegetables_1241-01_string-beans_6606b2be,vegetables,1241.01,commodity_code,String beans,2,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,vegetables
+fowcus_vegetables_1234_tomatoes_815a2e54,vegetables,1234,commodity_code,Tomatoes,3,1.0,0.0,pass,1.0,0.0,0.0,1.0,0.0,0.0,vegetables

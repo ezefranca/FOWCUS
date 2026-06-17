@@ -1,0 +1,136 @@
+{
+  "profile": "tabular-data-package",
+  "name": "fowcus-analysis-ready",
+  "title": "FOWCUS Analysis-Ready Dataset",
+  "description": "Analysis-ready CSV and Parquet tables derived from the upstream FOWCUS workbook.",
+  "homepage": "https://doi.org/10.6084/m9.figshare.27203688.v1",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The FOod Commodity composition for Waste qUantification and valorization opportunitieS (FOWCUS) Dataset",
+      "path": "https://doi.org/10.1038/s41597-025-05629-x"
+    },
+    {
+      "title": "The FOod Commodity composition for Waste qUantification and valorization opportunitieS (FOWCUS) Dataset. figshare. Dataset.",
+      "path": "https://doi.org/10.6084/m9.figshare.27203688.v1"
+    }
+  ],
+  "resources": [
+    {
+      "name": "fowcus_parts",
+      "path": "data/processed/csv/fowcus_parts.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "record_id", "type": "string"},
+          {"name": "commodity_id", "type": "string"},
+          {"name": "food_group", "type": "string"},
+          {"name": "source_group", "type": "string"},
+          {"name": "item_code", "type": "string"},
+          {"name": "item_code_kind", "type": "string"},
+          {"name": "item", "type": "string"},
+          {"name": "part", "type": "string"},
+          {"name": "mass_fraction", "type": "number"},
+          {"name": "mass_percent", "type": "number"},
+          {"name": "accounted_in_fao", "type": "boolean"},
+          {"name": "avoidability", "type": "string"},
+          {"name": "reference_id", "type": "string"},
+          {"name": "notes", "type": "string"},
+          {"name": "data_manipulation", "type": "string"},
+          {"name": "source_sheet", "type": "string"},
+          {"name": "source_row_number", "type": "integer"}
+        ],
+        "primaryKey": "record_id",
+        "foreignKeys": [
+          {"fields": "commodity_id", "reference": {"resource": "fowcus_commodities", "fields": "commodity_id"}},
+          {"fields": "reference_id", "reference": {"resource": "fowcus_references", "fields": "reference_id"}}
+        ]
+      }
+    },
+    {
+      "name": "fowcus_commodities",
+      "path": "data/processed/csv/fowcus_commodities.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "commodity_id", "type": "string"},
+          {"name": "food_group", "type": "string"},
+          {"name": "item_code", "type": "string"},
+          {"name": "item_code_kind", "type": "string"},
+          {"name": "item", "type": "string"},
+          {"name": "n_parts", "type": "integer"},
+          {"name": "mass_fraction_sum", "type": "number"},
+          {"name": "mass_balance_error", "type": "number"},
+          {"name": "mass_balance_status", "type": "string"},
+          {"name": "accounted_mass_fraction_sum", "type": "number"},
+          {"name": "non_fao_mass_fraction_sum", "type": "number"},
+          {"name": "unknown_fao_accounting_mass_fraction_sum", "type": "number"},
+          {"name": "avoidable_mass_fraction", "type": "number"},
+          {"name": "potentially_avoidable_mass_fraction", "type": "number"},
+          {"name": "unavoidable_mass_fraction", "type": "number"},
+          {"name": "source_sheets", "type": "string"}
+        ],
+        "primaryKey": "commodity_id"
+      }
+    },
+    {
+      "name": "fowcus_references",
+      "path": "data/processed/csv/fowcus_references.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "reference_id", "type": "string"},
+          {"name": "reference_text", "type": "string"},
+          {"name": "reference_url", "type": "string"},
+          {"name": "n_records", "type": "integer"}
+        ],
+        "primaryKey": "reference_id"
+      }
+    },
+    {
+      "name": "fowcus_classification_notes",
+      "path": "data/processed/csv/fowcus_classification_notes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "classification_note_id", "type": "string"},
+          {"name": "food_group", "type": "string"},
+          {"name": "classification_note", "type": "string"},
+          {"name": "item", "type": "string"}
+        ],
+        "primaryKey": "classification_note_id"
+      }
+    },
+    {
+      "name": "fowcus_quality_flags",
+      "path": "data/processed/csv/fowcus_quality_flags.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "flag_id", "type": "string"},
+          {"name": "scope", "type": "string"},
+          {"name": "severity", "type": "string"},
+          {"name": "check", "type": "string"},
+          {"name": "record_id", "type": "string"},
+          {"name": "commodity_id", "type": "string"},
+          {"name": "message", "type": "string"}
+        ],
+        "primaryKey": "flag_id",
+        "foreignKeys": [
+          {"fields": "commodity_id", "reference": {"resource": "fowcus_commodities", "fields": "commodity_id"}}
+        ]
+      }
+    }
+  ]
+}

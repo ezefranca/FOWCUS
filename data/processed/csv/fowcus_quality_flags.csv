@@ -1,0 +1,83 @@
+flag_id,scope,severity,check,record_id,commodity_id,message
+quality_flag_0001,commodity,info,mass_balance,,fowcus_cereals_1449-02_hempseed_8081ea12,Commodity parts sum to 1.003197; expected 1.000000 for a closed mass balance.
+quality_flag_0002,commodity,info,mass_balance,,fowcus_cereals_112_maize-corn_4cdbf1f5,Commodity parts sum to 0.999983; expected 1.000000 for a closed mass balance.
+quality_flag_0003,commodity,info,mass_balance,,fowcus_cereals_1199-02_mixed-grain_0864e6af,Commodity parts sum to 1.000417; expected 1.000000 for a closed mass balance.
+quality_flag_0004,commodity,info,mass_balance,,fowcus_fruits_1341_apples_495a8d0d,Commodity parts sum to 1.003750; expected 1.000000 for a closed mass balance.
+quality_flag_0005,commodity,warning,mass_balance,,fowcus_fruits_1351-01_currants_ca294801,Commodity parts sum to 0.890000; expected 1.000000 for a closed mass balance.
+quality_flag_0006,commodity,warning,mass_balance,,fowcus_fruits_1351-02_currants_26734e3f,Commodity parts sum to 0.110000; expected 1.000000 for a closed mass balance.
+quality_flag_0007,commodity,info,mass_balance,,fowcus_fruits_1351-02_gooseberries_b479a8ec,Commodity parts sum to 1.013874; expected 1.000000 for a closed mass balance.
+quality_flag_0008,commodity,info,mass_balance,,fowcus_fruits_1330_grapes_ebcc661d,Commodity parts sum to 1.000100; expected 1.000000 for a closed mass balance.
+quality_flag_0009,commodity,info,mass_balance,,fowcus_fruits_1359-9_other-fruits-n-e-c_ac0e922e,Commodity parts sum to 0.996700; expected 1.000000 for a closed mass balance.
+quality_flag_0010,commodity,info,mass_balance,,fowcus_fruits_1349-1_other-pome-fruits_f7f37b17,Commodity parts sum to 0.996000; expected 1.000000 for a closed mass balance.
+quality_flag_0011,commodity,info,mass_balance,,fowcus_fruits_1349-1_other-stone-fruits_e6b3bd05,Commodity parts sum to 1.002000; expected 1.000000 for a closed mass balance.
+quality_flag_0012,commodity,info,mass_balance,,fowcus_fruits_1319_other-tropical-fruits-n-e-c_440411b7,Commodity parts sum to 1.010775; expected 1.000000 for a closed mass balance.
+quality_flag_0013,commodity,info,mass_balance,,fowcus_fruits_1345_peaches-and-nectarines_d76771dd,Commodity parts sum to 0.996500; expected 1.000000 for a closed mass balance.
+quality_flag_0014,commodity,info,mass_balance,,fowcus_fruits_1342-01_pears_289c3397,Commodity parts sum to 1.000900; expected 1.000000 for a closed mass balance.
+quality_flag_0015,commodity,warning,mass_balance,,fowcus_fruits_1359-01_persimmons_8bf24510,Commodity parts sum to 0.591400; expected 1.000000 for a closed mass balance.
+quality_flag_0016,commodity,warning,mass_balance,,fowcus_fruits_1359-02_persimmons_646c5218,Commodity parts sum to 0.410000; expected 1.000000 for a closed mass balance.
+quality_flag_0017,commodity,info,mass_balance,,fowcus_fruits_1346_plums-and-sloes_65feade6,Commodity parts sum to 1.002200; expected 1.000000 for a closed mass balance.
+quality_flag_0018,commodity,info,mass_balance,,fowcus_fruits_1354_strawberries_029f9d89,Commodity parts sum to 1.003900; expected 1.000000 for a closed mass balance.
+quality_flag_0019,commodity,info,mass_balance,,fowcus_livestock_2132_asses_078bdf85,Commodity parts sum to 1.000320; expected 1.000000 for a closed mass balance.
+quality_flag_0020,commodity,info,mass_balance,,fowcus_livestock_2121-01_camels_7eed1371,Commodity parts sum to 0.990421; expected 1.000000 for a closed mass balance.
+quality_flag_0021,commodity,info,mass_balance,,fowcus_livestock_2111_cattle_29a0f09f,Commodity parts sum to 0.999660; expected 1.000000 for a closed mass balance.
+quality_flag_0022,commodity,info,mass_balance,,fowcus_livestock_2123_goats_7ca4dd3d,Commodity parts sum to 1.000320; expected 1.000000 for a closed mass balance.
+quality_flag_0023,commodity,info,mass_balance,,fowcus_livestock_2131_horses_07eb5e12,Commodity parts sum to 0.999732; expected 1.000000 for a closed mass balance.
+quality_flag_0024,commodity,info,mass_balance,,fowcus_livestock_2133_mules-and-hinnies_46d6efc7,Commodity parts sum to 1.000320; expected 1.000000 for a closed mass balance.
+quality_flag_0025,commodity,warning,mass_balance,,fowcus_livestock_2122_sheeps_d6451fff,Commodity parts sum to 2.002000; expected 1.000000 for a closed mass balance.
+quality_flag_0026,commodity,info,mass_balance,,fowcus_nuts_1373_chestnuts-in-shell_d80010c3,Commodity parts sum to 0.997080; expected 1.000000 for a closed mass balance.
+quality_flag_0027,commodity,info,mass_balance,,fowcus_nuts_1379-9-macadamia_macadamia-in-shell_ecaf03c1,Commodity parts sum to 0.997635; expected 1.000000 for a closed mass balance.
+quality_flag_0028,commodity,info,mass_balance,,fowcus_nuts_1379-9-pili_pili-nuts-in-shell_13a3312b,Commodity parts sum to 0.995000; expected 1.000000 for a closed mass balance.
+quality_flag_0029,commodity,info,mass_balance,,fowcus_seafood_141007003102_amur-catfish_2e59fba7,Commodity parts sum to 0.996000; expected 1.000000 for a closed mass balance.
+quality_flag_0030,commodity,info,mass_balance,,fowcus_seafood_121005000105_atlantic-herring_4d17df1f,Commodity parts sum to 1.000100; expected 1.000000 for a closed mass balance.
+quality_flag_0031,commodity,info,mass_balance,,fowcus_seafood_141010000202_channel-catfish_e7db6a8b,Commodity parts sum to 0.998500; expected 1.000000 for a closed mass balance.
+quality_flag_0032,commodity,info,mass_balance,,fowcus_seafood_1210xxxxxxxx020_clupeoids-nei_f7e74f8f,Commodity parts sum to 1.000100; expected 1.000000 for a closed mass balance.
+quality_flag_0033,commodity,info,mass_balance,,fowcus_seafood_1700370xxxxx_croakers-drums-nei_1f340dfe,Commodity parts sum to 0.995600; expected 1.000000 for a closed mass balance.
+quality_flag_0034,commodity,info,mass_balance,,fowcus_seafood_aggregation_demersal-marine-fish-outside-top-100_3224e525,Commodity parts sum to 0.993288; expected 1.000000 for a closed mass balance.
+quality_flag_0035,commodity,info,mass_balance,,fowcus_seafood_121005006601_european-sprat_cd0d72db,Commodity parts sum to 1.000100; expected 1.000000 for a closed mass balance.
+quality_flag_0036,commodity,info,mass_balance,,fowcus_seafood_1700020042xx_groupers-nei_4df0d065,Commodity parts sum to 1.000243; expected 1.000000 for a closed mass balance.
+quality_flag_0037,commodity,info,mass_balance,,fowcus_seafood_1700230044xx_jacks-crevalles-nei_1481e5d6,Commodity parts sum to 0.995000; expected 1.000000 for a closed mass balance.
+quality_flag_0038,commodity,info,mass_balance,,fowcus_seafood_aggregation_marine-fish-nei-outside-top-100_2d4892e3,Commodity parts sum to 0.989584; expected 1.000000 for a closed mass balance.
+quality_flag_0039,commodity,info,mass_balance,,fowcus_seafood_1990xxxxxxxx010_marine-fishes-nei_8bfc8ac4,Commodity parts sum to 0.989584; expected 1.000000 for a closed mass balance.
+quality_flag_0040,commodity,info,mass_balance,,fowcus_seafood_121005000107_pacific-herring_1ce88956,Commodity parts sum to 1.000100; expected 1.000000 for a closed mass balance.
+quality_flag_0041,commodity,info,mass_balance,,fowcus_seafood_aggregation_pelagic-marine-fish-outside-top-100_63260922,Commodity parts sum to 0.985880; expected 1.000000 for a closed mass balance.
+quality_flag_0042,commodity,info,mass_balance,,fowcus_seafood_1700330184xx_threadfin-breams-nei_0d6678da,Commodity parts sum to 0.999500; expected 1.000000 for a closed mass balance.
+quality_flag_0043,commodity,info,mass_balance,,fowcus_stimulants_1640_cocoa-beans_7e450d21,Commodity parts sum to 0.998800; expected 1.000000 for a closed mass balance.
+quality_flag_0044,commodity,info,mass_balance,,fowcus_sugar_1801_sugar-beet_1fcadb75,Commodity parts sum to 0.999990; expected 1.000000 for a closed mass balance.
+quality_flag_0045,commodity,info,mass_balance,,fowcus_vegetables_1251_carrots-and-turnips_664b0600,Commodity parts sum to 1.002728; expected 1.000000 for a closed mass balance.
+quality_flag_0046,commodity,info,mass_balance,,fowcus_vegetables_1231_chillies-and-peppers-green-capsicum-spp-and-pimenta-spp_348e9542,Commodity parts sum to 0.996000; expected 1.000000 for a closed mass balance.
+quality_flag_0047,commodity,info,mass_balance,,fowcus_vegetables_1233_eggplants-aubergines_ebeb5d85,Commodity parts sum to 1.004300; expected 1.000000 for a closed mass balance.
+quality_flag_0048,commodity,info,mass_balance,,fowcus_vegetables_1235_pumpkins-squash-and-gourds_45335449,Commodity parts sum to 0.999800; expected 1.000000 for a closed mass balance.
+quality_flag_0049,part,warning,duplicate_part_label_within_commodity,fowcus_part_00171,fowcus_livestock_2122_sheeps_d6451fff,Part label 'blood' appears more than once for this commodity.
+quality_flag_0050,part,warning,duplicate_part_label_within_commodity,fowcus_part_00183,fowcus_livestock_2122_sheeps_d6451fff,Part label 'blood' appears more than once for this commodity.
+quality_flag_0051,part,warning,duplicate_part_label_within_commodity,fowcus_part_00179,fowcus_livestock_2122_sheeps_d6451fff,Part label 'bones (boning and cuts)' appears more than once for this commodity.
+quality_flag_0052,part,warning,duplicate_part_label_within_commodity,fowcus_part_00191,fowcus_livestock_2122_sheeps_d6451fff,Part label 'bones (boning and cuts)' appears more than once for this commodity.
+quality_flag_0053,part,warning,duplicate_part_label_within_commodity,fowcus_part_00180,fowcus_livestock_2122_sheeps_d6451fff,Part label 'bones (cuts in wholesale/retail/home)' appears more than once for this commodity.
+quality_flag_0054,part,warning,duplicate_part_label_within_commodity,fowcus_part_00192,fowcus_livestock_2122_sheeps_d6451fff,Part label 'bones (cuts in wholesale/retail/home)' appears more than once for this commodity.
+quality_flag_0055,part,warning,duplicate_part_label_within_commodity,fowcus_part_00176,fowcus_livestock_2122_sheeps_d6451fff,Part label 'fat' appears more than once for this commodity.
+quality_flag_0056,part,warning,duplicate_part_label_within_commodity,fowcus_part_00188,fowcus_livestock_2122_sheeps_d6451fff,Part label 'fat' appears more than once for this commodity.
+quality_flag_0057,part,warning,duplicate_part_label_within_commodity,fowcus_part_00181,fowcus_livestock_2122_sheeps_d6451fff,Part label 'meat (muscle tissue)' appears more than once for this commodity.
+quality_flag_0058,part,warning,duplicate_part_label_within_commodity,fowcus_part_00193,fowcus_livestock_2122_sheeps_d6451fff,Part label 'meat (muscle tissue)' appears more than once for this commodity.
+quality_flag_0059,part,warning,duplicate_part_label_within_commodity,fowcus_part_00173,fowcus_livestock_2122_sheeps_d6451fff,Part label 'nails and feet' appears more than once for this commodity.
+quality_flag_0060,part,warning,duplicate_part_label_within_commodity,fowcus_part_00185,fowcus_livestock_2122_sheeps_d6451fff,Part label 'nails and feet' appears more than once for this commodity.
+quality_flag_0061,part,warning,duplicate_part_label_within_commodity,fowcus_part_00174,fowcus_livestock_2122_sheeps_d6451fff,Part label 'offals' appears more than once for this commodity.
+quality_flag_0062,part,warning,duplicate_part_label_within_commodity,fowcus_part_00186,fowcus_livestock_2122_sheeps_d6451fff,Part label 'offals' appears more than once for this commodity.
+quality_flag_0063,part,warning,duplicate_part_label_within_commodity,fowcus_part_00177,fowcus_livestock_2122_sheeps_d6451fff,Part label 'reproductive system (incl. bladder)' appears more than once for this commodity.
+quality_flag_0064,part,warning,duplicate_part_label_within_commodity,fowcus_part_00189,fowcus_livestock_2122_sheeps_d6451fff,Part label 'reproductive system (incl. bladder)' appears more than once for this commodity.
+quality_flag_0065,part,warning,duplicate_part_label_within_commodity,fowcus_part_00178,fowcus_livestock_2122_sheeps_d6451fff,Part label 'skin/hide' appears more than once for this commodity.
+quality_flag_0066,part,warning,duplicate_part_label_within_commodity,fowcus_part_00190,fowcus_livestock_2122_sheeps_d6451fff,Part label 'skin/hide' appears more than once for this commodity.
+quality_flag_0067,part,warning,duplicate_part_label_within_commodity,fowcus_part_00169,fowcus_livestock_2122_sheeps_d6451fff,Part label 'spleen' appears more than once for this commodity.
+quality_flag_0068,part,warning,duplicate_part_label_within_commodity,fowcus_part_00182,fowcus_livestock_2122_sheeps_d6451fff,Part label 'spleen' appears more than once for this commodity.
+quality_flag_0069,part,warning,duplicate_part_label_within_commodity,fowcus_part_00175,fowcus_livestock_2122_sheeps_d6451fff,Part label 'stomach' appears more than once for this commodity.
+quality_flag_0070,part,warning,duplicate_part_label_within_commodity,fowcus_part_00187,fowcus_livestock_2122_sheeps_d6451fff,Part label 'stomach' appears more than once for this commodity.
+quality_flag_0071,part,warning,duplicate_part_label_within_commodity,fowcus_part_00172,fowcus_livestock_2122_sheeps_d6451fff,Part label 'viscera' appears more than once for this commodity.
+quality_flag_0072,part,warning,duplicate_part_label_within_commodity,fowcus_part_00184,fowcus_livestock_2122_sheeps_d6451fff,Part label 'viscera' appears more than once for this commodity.
+quality_flag_0073,part,warning,missing_accounted_in_fao,fowcus_part_00341,fowcus_seafood_231013002803_chinese-mitten-crab_3235512f,Part 'meat' has no accounted_in_fao value in the source workbook.
+quality_flag_0074,part,warning,missing_accounted_in_fao,fowcus_part_00429,fowcus_seafood_231011000404_gazami-crab_ed9281d9,Part 'offals' has no accounted_in_fao value in the source workbook.
+quality_flag_0075,part,info,missing_data_manipulation,fowcus_part_00482,fowcus_seafood_316011002002_japanese-carpet-shell_4b647e41,Part 'shell' has no data_manipulation note in the source workbook.
+quality_flag_0076,part,info,missing_data_manipulation,fowcus_part_00483,fowcus_seafood_316011002002_japanese-carpet-shell_4b647e41,Part 'meat' has no data_manipulation note in the source workbook.
+quality_flag_0077,commodity,warning,case_only_item_label_collision,,fowcus_seafood_aggregation_oysters-outside-top-100_ed12dc11,Commodity item label differs from another item only by letter case.
+quality_flag_0078,commodity,warning,case_only_item_label_collision,,fowcus_seafood_aggregation_oysters-outside-top-100_1c228b8b,Commodity item label differs from another item only by letter case.
+quality_flag_0079,commodity,info,item_label_has_multiple_codes,,fowcus_fruits_1351-01_currants_ca294801,The same item label appears with multiple source item_code values.
+quality_flag_0080,commodity,info,item_label_has_multiple_codes,,fowcus_fruits_1351-02_currants_26734e3f,The same item label appears with multiple source item_code values.
+quality_flag_0081,commodity,info,item_label_has_multiple_codes,,fowcus_fruits_1359-01_persimmons_8bf24510,The same item label appears with multiple source item_code values.
+quality_flag_0082,commodity,info,item_label_has_multiple_codes,,fowcus_fruits_1359-02_persimmons_646c5218,The same item label appears with multiple source item_code values.

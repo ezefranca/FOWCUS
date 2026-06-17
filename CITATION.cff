@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use these analysis-ready FOWCUS tables, cite this repository DOI when available and cite the upstream FOWCUS article and Figshare dataset."
+title: "FOWCUS Analysis-Ready Dataset"
+type: dataset
+authors:
+  - name: "FOWCUS analysis-ready dataset maintainers"
+keywords:
+  - food waste
+  - food commodities
+  - mass composition
+  - valorization
+  - FAOSTAT
+references:
+  - type: article
+    title: "The FOod Commodity composition for Waste qUantification and valorization opportunitieS (FOWCUS) Dataset"
+    authors:
+      - family-names: Coudard
+        given-names: Antoine
+      - family-names: Szabo-Hemmings
+        given-names: Tom
+      - family-names: Delval
+        given-names: Mona Honorine
+      - family-names: Marriyapillai Ravisandiran
+        given-names: Sowmya
+      - family-names: Mogollon
+        given-names: Jose M
+    journal: "Scientific Data"
+    volume: "12"
+    year: 2025
+    doi: "10.1038/s41597-025-05629-x"
+  - type: data
+    title: "The FOod Commodity composition for Waste qUantification and valorization opportunitieS (FOWCUS) Dataset"
+    authors:
+      - family-names: Coudard
+        given-names: Antoine
+      - family-names: Szabo-Hemmings
+        given-names: Tom
+      - family-names: Delval
+        given-names: Mona Honorine
+      - family-names: Marriyapillai Ravisandiran
+        given-names: Sowmya
+      - family-names: Mogollon
+        given-names: Jose M
+    repository: "figshare"
+    year: 2025
+    doi: "10.6084/m9.figshare.27203688.v1"
