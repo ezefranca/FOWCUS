@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="2050" viewBox="0 0 1400 2050" role="img" aria-labelledby="title desc">
+<title id="title">FOWCUS dataset visual explainer</title>
+<desc id="desc">A simple visualization explaining that FOWCUS breaks food commodities into mass fractions, avoidability categories, and source-accounting notes.</desc>
+<style>text{font-family:Inter,Arial,sans-serif}.small{font-size:15px}.mono{font-family:ui-monospace,Menlo,Consolas,monospace}</style>
+<rect x="0" y="0" width="1400" height="2050" rx="10" fill="#fbfaf7" stroke="none"/>
+<text x="70" y="88" font-size="48" fill="#1f2933" font-weight="800"><tspan x="70" dy="0">FOWCUS in one picture</tspan></text>
+<text x="72" y="136" font-size="22" fill="#52606d" font-weight="400"><tspan x="72" dy="0">Like a 5-year-old: each food is a thing made of smaller pieces. FOWCUS tells us how big</tspan><tspan x="72" dy="30">each piece is.</tspan></text>
+<rect x="72" y="220" width="285" height="116" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="98" y="270" font-size="36" font-weight="800" fill="#1f2933">276</text>
+<text x="98" y="304" font-size="18" fill="#52606d">commodities</text>
+<rect x="375" y="220" width="285" height="116" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="401" y="270" font-size="36" font-weight="800" fill="#1f2933">12</text>
+<text x="401" y="304" font-size="18" fill="#52606d">food groups</text>
+<rect x="678" y="220" width="285" height="116" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="704" y="270" font-size="36" font-weight="800" fill="#1f2933">1,159</text>
+<text x="704" y="304" font-size="18" fill="#52606d">part records</text>
+<rect x="981" y="220" width="285" height="116" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="1007" y="270" font-size="36" font-weight="800" fill="#1f2933">82</text>
+<text x="1007" y="304" font-size="18" fill="#52606d">review flags</text>
+<text x="72" y="405" font-size="30" fill="#1f2933" font-weight="800"><tspan x="72" dy="0">What the dataset does</tspan></text>
+<rect x="72" y="450" width="295" height="170" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="96" y="494" font-size="21" fill="#1f2933" font-weight="800"><tspan x="96" dy="0">1. Pick a food</tspan></text>
+<text x="96" y="534" font-size="17" fill="#52606d" font-weight="400"><tspan x="96" dy="0">Example: eggs, apples,</tspan><tspan x="96" dy="22">fish, cattle.</tspan></text>
+<path d="M377 535 H405" stroke="#2f6690" stroke-width="4"/>
+<path d="M405 535 l-10 -8 v16 z" fill="#2f6690"/>
+<rect x="394" y="450" width="295" height="170" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="418" y="494" font-size="21" fill="#1f2933" font-weight="800"><tspan x="418" dy="0">2. Split it into parts</tspan></text>
+<text x="418" y="534" font-size="17" fill="#52606d" font-weight="400"><tspan x="418" dy="0">Shell, meat, peel, seed,</tspan><tspan x="418" dy="22">bone, pulp.</tspan></text>
+<path d="M699 535 H727" stroke="#2f6690" stroke-width="4"/>
+<path d="M727 535 l-10 -8 v16 z" fill="#2f6690"/>
+<rect x="716" y="450" width="295" height="170" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="740" y="494" font-size="21" fill="#1f2933" font-weight="800"><tspan x="740" dy="0">3. Label the parts</tspan></text>
+<text x="740" y="534" font-size="17" fill="#52606d" font-weight="400"><tspan x="740" dy="0">Could eat, maybe eat, or</tspan><tspan x="740" dy="22">normally cannot eat.</tspan></text>
+<path d="M1021 535 H1049" stroke="#2f6690" stroke-width="4"/>
+<path d="M1049 535 l-10 -8 v16 z" fill="#2f6690"/>
+<rect x="1038" y="450" width="295" height="170" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="1062" y="494" font-size="21" fill="#1f2933" font-weight="800"><tspan x="1062" dy="0">4. Use production</tspan></text>
+<text x="1062" y="534" font-size="17" fill="#52606d" font-weight="400"><tspan x="1062" dy="0">100 tonnes of food times</tspan><tspan x="1062" dy="22">each fraction gives tonnes</tspan><tspan x="1062" dy="22">of each stream.</tspan></text>
+<text x="72" y="705" font-size="30" fill="#1f2933" font-weight="800"><tspan x="72" dy="0">Tiny example: one 100 kg pile of fresh hen eggs</tspan></text>
+<text x="72" y="746" font-size="18" fill="#52606d" font-weight="400"><tspan x="72" dy="0">FOWCUS says that pile is mostly egg liquid and a smaller shell part. The math is just a</tspan><tspan x="72" dy="24">recipe for splitting the pile.</tspan></text>
+<rect x="72.00" y="805" width="760.75" height="72" fill="#2f7d46"/>
+<text x="452.38" y="847.00" font-size="15" text-anchor="middle" fill="white" font-weight="700">avoidable 90%</text>
+<rect x="832.75" y="805" width="89.25" height="72" fill="#51606d"/>
+<rect x="72" y="805" width="850" height="72" fill="none" stroke="#d9e2ec"/>
+<rect x="970" y="800" width="24" height="24" fill="#2f7d46"/>
+<text x="1008" y="819" font-size="18" fill="#1f2933">egg liquid = 89.5 kg (avoidable)</text>
+<rect x="970" y="848" width="24" height="24" fill="#51606d"/>
+<text x="1008" y="867" font-size="18" fill="#1f2933">shell = 10.5 kg (unavoidable)</text>
+<text x="72" y="928" font-size="18" fill="#52606d" font-weight="400"><tspan x="72" dy="0">So if a country reports 100 kg of this commodity, FOWCUS lets an analyst estimate about 89.5 kg</tspan><tspan x="72" dy="24">egg liquid and 10.5 kg shell.</tspan></text>
+<text x="72" y="1030" font-size="30" fill="#1f2933" font-weight="800"><tspan x="72" dy="0">The three simple labels</tspan></text>
+<rect x="72" y="1075" width="386" height="136" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<rect x="96" y="1104" width="28" height="28" fill="#2f7d46"/>
+<text x="138" y="1126" font-size="20" font-weight="800" fill="#1f2933">avoidable</text>
+<text x="96" y="1166" font-size="16" fill="#52606d" font-weight="400"><tspan x="96" dy="0">The part people can normally eat or</tspan><tspan x="96" dy="21">use as food.</tspan></text>
+<rect x="492" y="1075" width="386" height="136" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<rect x="516" y="1104" width="28" height="28" fill="#d99000"/>
+<text x="558" y="1126" font-size="20" font-weight="800" fill="#1f2933">potentially avoidable</text>
+<text x="516" y="1166" font-size="16" fill="#52606d" font-weight="400"><tspan x="516" dy="0">The part some people might eat or</tspan><tspan x="516" dy="21">use, depending on place or habit.</tspan></text>
+<rect x="912" y="1075" width="386" height="136" rx="10" fill="#ffffff" stroke="#d9e2ec"/>
+<rect x="936" y="1104" width="28" height="28" fill="#51606d"/>
+<text x="978" y="1126" font-size="20" font-weight="800" fill="#1f2933">unavoidable</text>
+<text x="936" y="1166" font-size="16" fill="#52606d" font-weight="400"><tspan x="936" dy="0">The part people normally do not eat,</tspan><tspan x="936" dy="21">like shell, bones, or peel in many</tspan><tspan x="936" dy="21">cases.</tspan></text>
+<text x="72" y="1290" font-size="30" fill="#1f2933" font-weight="800"><tspan x="72" dy="0">Average split by food group</tspan></text>
+<text x="72" y="1328" font-size="17" fill="#52606d" font-weight="400"><tspan x="72" dy="0">Each bar averages commodities in that food group. It shows what kind of pieces the group</tspan><tspan x="72" dy="24">tends to contain.</tspan></text>
+<text x="72" y="1391" font-size="16" fill="#1f2933">sugar</text>
+<rect x="300.00" y="1370" width="142.72" height="24" fill="#2f7d46"/>
+<rect x="442.72" y="1370" width="737.28" height="24" fill="#51606d"/>
+<rect x="300" y="1370" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1389" font-size="15" fill="#52606d">84% unavoidable</text>
+<text x="72" y="1425" font-size="16" fill="#1f2933">nuts</text>
+<rect x="300.00" y="1404" width="283.00" height="24" fill="#2f7d46"/>
+<rect x="583.00" y="1404" width="597.00" height="24" fill="#51606d"/>
+<rect x="300" y="1404" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1423" font-size="15" fill="#52606d">68% unavoidable</text>
+<text x="72" y="1459" font-size="16" fill="#1f2933">livestock</text>
+<rect x="300.00" y="1438" width="350.89" height="24" fill="#2f7d46"/>
+<rect x="650.89" y="1438" width="39.75" height="24" fill="#d99000"/>
+<rect x="690.64" y="1438" width="489.36" height="24" fill="#51606d"/>
+<rect x="300" y="1438" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1457" font-size="15" fill="#52606d">56% unavoidable</text>
+<text x="72" y="1493" font-size="16" fill="#1f2933">seafood</text>
+<rect x="300.00" y="1472" width="464.00" height="24" fill="#2f7d46"/>
+<rect x="764.00" y="1472" width="21.69" height="24" fill="#d99000"/>
+<rect x="785.69" y="1472" width="394.31" height="24" fill="#51606d"/>
+<rect x="300" y="1472" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1491" font-size="15" fill="#52606d">45% unavoidable</text>
+<text x="72" y="1527" font-size="16" fill="#1f2933">vegetable oils</text>
+<rect x="300.00" y="1506" width="556.66" height="24" fill="#2f7d46"/>
+<rect x="856.66" y="1506" width="323.34" height="24" fill="#51606d"/>
+<rect x="300" y="1506" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1525" font-size="15" fill="#52606d">37% unavoidable</text>
+<text x="72" y="1561" font-size="16" fill="#1f2933">stimulants</text>
+<rect x="300.00" y="1540" width="603.35" height="24" fill="#2f7d46"/>
+<rect x="903.35" y="1540" width="19.38" height="24" fill="#d99000"/>
+<rect x="922.74" y="1540" width="257.26" height="24" fill="#51606d"/>
+<rect x="300" y="1540" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1559" font-size="15" fill="#52606d">29% unavoidable</text>
+<text x="72" y="1595" font-size="16" fill="#1f2933">cereals</text>
+<rect x="300.00" y="1574" width="704.22" height="24" fill="#2f7d46"/>
+<rect x="1004.22" y="1574" width="175.78" height="24" fill="#51606d"/>
+<rect x="300" y="1574" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1593" font-size="15" fill="#52606d">20% unavoidable</text>
+<text x="72" y="1629" font-size="16" fill="#1f2933">vegetables</text>
+<rect x="300.00" y="1608" width="697.12" height="24" fill="#2f7d46"/>
+<rect x="997.12" y="1608" width="53.58" height="24" fill="#d99000"/>
+<rect x="1050.70" y="1608" width="129.30" height="24" fill="#51606d"/>
+<rect x="300" y="1608" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1627" font-size="15" fill="#52606d">15% unavoidable</text>
+<text x="72" y="1663" font-size="16" fill="#1f2933">fruits</text>
+<rect x="300.00" y="1642" width="741.71" height="24" fill="#2f7d46"/>
+<rect x="1041.71" y="1642" width="21.58" height="24" fill="#d99000"/>
+<rect x="1063.29" y="1642" width="116.71" height="24" fill="#51606d"/>
+<rect x="300" y="1642" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1661" font-size="15" fill="#52606d">13% unavoidable</text>
+<text x="72" y="1697" font-size="16" fill="#1f2933">eggs</text>
+<rect x="300.00" y="1676" width="787.60" height="24" fill="#2f7d46"/>
+<rect x="1087.60" y="1676" width="92.40" height="24" fill="#51606d"/>
+<rect x="300" y="1676" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1695" font-size="15" fill="#52606d">10% unavoidable</text>
+<text x="72" y="1731" font-size="16" fill="#1f2933">root vegetables</text>
+<rect x="300.00" y="1710" width="747.34" height="24" fill="#2f7d46"/>
+<rect x="1047.34" y="1710" width="84.70" height="24" fill="#d99000"/>
+<rect x="1132.04" y="1710" width="47.96" height="24" fill="#51606d"/>
+<rect x="300" y="1710" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1729" font-size="15" fill="#52606d">5% unavoidable</text>
+<text x="72" y="1765" font-size="16" fill="#1f2933">legumes pulses</text>
+<rect x="300.00" y="1744" width="752.22" height="24" fill="#2f7d46"/>
+<rect x="1052.22" y="1744" width="110.35" height="24" fill="#d99000"/>
+<rect x="1162.58" y="1744" width="17.42" height="24" fill="#51606d"/>
+<rect x="300" y="1744" width="880" height="24" fill="none" stroke="#d9e2ec"/>
+<text x="1198" y="1763" font-size="15" fill="#52606d">2% unavoidable</text>
+<text x="72" y="1810" font-size="26" fill="#1f2933" font-weight="800"><tspan x="72" dy="0">Most rows are seafood because it has many species</tspan></text>
+<text x="72" y="1861" font-size="15" fill="#1f2933">seafood</text>
+<rect x="282" y="1842" width="980.0" height="24" fill="#2f6690"/>
+<text x="1272.0" y="1860" font-size="15" fill="#52606d">120 commodities</text>
+<text x="72" y="1899" font-size="15" fill="#1f2933">fruits</text>
+<rect x="282" y="1880" width="334.8" height="24" fill="#2f6690"/>
+<text x="626.8" y="1898" font-size="15" fill="#52606d">41 commodities</text>
+<text x="72" y="1937" font-size="15" fill="#1f2933">vegetables</text>
+<rect x="282" y="1918" width="196.0" height="24" fill="#2f6690"/>
+<text x="488.0" y="1936" font-size="15" fill="#52606d">24 commodities</text>
+<text x="72" y="1975" font-size="15" fill="#1f2933">nuts</text>
+<rect x="282" y="1956" width="138.8" height="24" fill="#2f6690"/>
+<text x="430.8" y="1974" font-size="15" fill="#52606d">17 commodities</text>
+<text x="72" y="2013" font-size="15" fill="#1f2933">livestock</text>
+<rect x="282" y="1994" width="138.8" height="24" fill="#2f6690"/>
+<text x="430.8" y="2012" font-size="15" fill="#52606d">17 commodities</text>
+</svg>

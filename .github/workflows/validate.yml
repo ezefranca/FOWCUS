@@ -30,7 +30,7 @@ jobs:
           python -m pip check
 
       - name: Compile scripts
-        run: python -m py_compile scripts/build_dataset.py scripts/validate_dataset.py
+        run: python -m py_compile scripts/build_dataset.py scripts/build_visualization.py scripts/validate_dataset.py
 
       - name: Validate JSON metadata
         run: |
@@ -41,6 +41,9 @@ jobs:
       - name: Rebuild derived tables
         run: python scripts/build_dataset.py
 
+      - name: Rebuild visualization
+        run: python scripts/build_visualization.py
+
       - name: Validate derived tables
         run: python scripts/validate_dataset.py
 
@@ -49,4 +52,5 @@ jobs:
           git diff --exit-code -- \
             data/processed/csv \
             data/processed/parquet \
-            metadata/dataset_summary.json
+            metadata/dataset_summary.json \
+            docs/assets/fowcus_explainer.svg

@@ -57,6 +57,7 @@ After this repository receives its own DOI, cite that DOI in addition to the ups
 
 ## Documentation
 
+- `docs/explain_like_5.md` gives a visual, plain-language explanation of what the dataset does.
 - `docs/data_dictionary.md` describes every derived table and field.
 - `docs/provenance.md` documents sources, transformation decisions, checksums, and licensing.
 - `docs/usage.md` gives Python, R, DuckDB, and FAOSTAT-style usage examples.
